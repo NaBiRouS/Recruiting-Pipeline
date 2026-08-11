@@ -1,0 +1,536 @@
+[
+  {
+    "candidate_id": "CAND-100528",
+    "duplicate_id": "CAND-100843",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-101018",
+    "duplicate_id": "CAND-100364",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100072",
+    "duplicate_id": "CAND-101010",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100391",
+    "duplicate_id": "CAND-100764",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-100253",
+    "duplicate_id": "CAND-101053",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100493",
+    "duplicate_id": "CAND-100950",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-100158",
+    "duplicate_id": "CAND-101049",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100550",
+    "duplicate_id": "CAND-100693",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-100254",
+    "duplicate_id": "CAND-100773",
+    "confidence": 1.0,
+    "reason": "same email, same name, email local-part, and title"
+  },
+  {
+    "candidate_id": "CAND-101031",
+    "duplicate_id": "CAND-100187",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100915",
+    "duplicate_id": "CAND-100317",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-101056",
+    "duplicate_id": "CAND-100317",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101044",
+    "duplicate_id": "CAND-100280",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100858",
+    "duplicate_id": "CAND-100373",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-101015",
+    "duplicate_id": "CAND-100866",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100821",
+    "duplicate_id": "CAND-101037",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100857",
+    "duplicate_id": "CAND-100534",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-101024",
+    "duplicate_id": "CAND-101012",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-100206",
+    "duplicate_id": "CAND-101012",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100080",
+    "duplicate_id": "CAND-101012",
+    "confidence": 0.95,
+    "reason": "connected to duplicate group through matching email or phone"
+  },
+  {
+    "candidate_id": "CAND-100001",
+    "duplicate_id": "CAND-101017",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100041",
+    "duplicate_id": "CAND-101059",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100172",
+    "duplicate_id": "CAND-101020",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100411",
+    "duplicate_id": "CAND-100709",
+    "confidence": 0.95,
+    "reason": "same name, email local-part, and title"
+  },
+  {
+    "candidate_id": "CAND-101005",
+    "duplicate_id": "CAND-100989",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101040",
+    "duplicate_id": "CAND-100445",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100582",
+    "duplicate_id": "CAND-101007",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100024",
+    "duplicate_id": "CAND-101001",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101021",
+    "duplicate_id": "CAND-100956",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100917",
+    "duplicate_id": "CAND-101038",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101023",
+    "duplicate_id": "CAND-100744",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100409",
+    "duplicate_id": "CAND-101013",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101047",
+    "duplicate_id": "CAND-100751",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100078",
+    "duplicate_id": "CAND-101050",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100809",
+    "duplicate_id": "CAND-101055",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100494",
+    "duplicate_id": "CAND-100780",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-101032",
+    "duplicate_id": "CAND-100780",
+    "confidence": 0.95,
+    "reason": "connected to duplicate group through matching email or phone"
+  },
+  {
+    "candidate_id": "CAND-101057",
+    "duplicate_id": "CAND-100098",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101054",
+    "duplicate_id": "CAND-100822",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101042",
+    "duplicate_id": "CAND-100429",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101033",
+    "duplicate_id": "CAND-100581",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100899",
+    "duplicate_id": "CAND-100850",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-100425",
+    "duplicate_id": "CAND-100133",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-100689",
+    "duplicate_id": "CAND-100603",
+    "confidence": 0.95,
+    "reason": "same name, email local-part, and title"
+  },
+  {
+    "candidate_id": "CAND-100711",
+    "duplicate_id": "CAND-100052",
+    "confidence": 1.0,
+    "reason": "same email, same name, email local-part, and title"
+  },
+  {
+    "candidate_id": "CAND-101027",
+    "duplicate_id": "CAND-100724",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100088",
+    "duplicate_id": "CAND-100393",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-101002",
+    "duplicate_id": "CAND-100733",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101003",
+    "duplicate_id": "CAND-100034",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100327",
+    "duplicate_id": "CAND-101039",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100713",
+    "duplicate_id": "CAND-100720",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-101058",
+    "duplicate_id": "CAND-100756",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101048",
+    "duplicate_id": "CAND-100687",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101046",
+    "duplicate_id": "CAND-100694",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101004",
+    "duplicate_id": "CAND-100184",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100527",
+    "duplicate_id": "CAND-101034",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100712",
+    "duplicate_id": "CAND-100529",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-101045",
+    "duplicate_id": "CAND-100560",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101000",
+    "duplicate_id": "CAND-100837",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101019",
+    "duplicate_id": "CAND-100860",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100470",
+    "duplicate_id": "CAND-100960",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-101051",
+    "duplicate_id": "CAND-100038",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100682",
+    "duplicate_id": "CAND-100360",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-100437",
+    "duplicate_id": "CAND-100360",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-101052",
+    "duplicate_id": "CAND-100591",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100949",
+    "duplicate_id": "CAND-101011",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101009",
+    "duplicate_id": "CAND-100852",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101016",
+    "duplicate_id": "CAND-100201",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101030",
+    "duplicate_id": "CAND-100142",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100491",
+    "duplicate_id": "CAND-101006",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100257",
+    "duplicate_id": "CAND-100669",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-101022",
+    "duplicate_id": "CAND-100894",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100570",
+    "duplicate_id": "CAND-101036",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101026",
+    "duplicate_id": "CAND-100752",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-101014",
+    "duplicate_id": "CAND-100089",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100672",
+    "duplicate_id": "CAND-101043",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100496",
+    "duplicate_id": "CAND-100992",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-101028",
+    "duplicate_id": "CAND-100992",
+    "confidence": 0.95,
+    "reason": "connected to duplicate group through matching email or phone"
+  },
+  {
+    "candidate_id": "CAND-100631",
+    "duplicate_id": "CAND-101035",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100392",
+    "duplicate_id": "CAND-100515",
+    "confidence": 0.95,
+    "reason": "same name, email local-part, and title"
+  },
+  {
+    "candidate_id": "CAND-100804",
+    "duplicate_id": "CAND-100323",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-101008",
+    "duplicate_id": "CAND-100594",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100093",
+    "duplicate_id": "CAND-100396",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-100536",
+    "duplicate_id": "CAND-100328",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-101041",
+    "duplicate_id": "CAND-100241",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100461",
+    "duplicate_id": "CAND-100828",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-101025",
+    "duplicate_id": "CAND-100338",
+    "confidence": 1.0,
+    "reason": "same phone"
+  },
+  {
+    "candidate_id": "CAND-100308",
+    "duplicate_id": "CAND-100193",
+    "confidence": 1.0,
+    "reason": "same email"
+  },
+  {
+    "candidate_id": "CAND-101029",
+    "duplicate_id": "CAND-100962",
+    "confidence": 1.0,
+    "reason": "same phone"
+  }
+]

@@ -1,0 +1,1060 @@
+{"candidate_id": "CAND-100843", "enrichment": {"skills": ["react"], "seniority": "staff", "domain": "ecommerce", "confidence": 0.7, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100680", "enrichment": {"skills": ["python", "r"], "seniority": null, "domain": "healthtech", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100735", "enrichment": {"skills": ["python"], "seniority": "principal", "domain": "biotech", "confidence": 0.9, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100222", "enrichment": {"skills": ["aws", "tableau", "powerbi", "sql"], "seniority": null, "domain": null, "confidence": 0.4, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100990", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100281", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100342", "enrichment": {"skills": ["r"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100972", "enrichment": {"skills": ["python"], "seniority": "principal", "domain": "cybersecurity", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100364", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100067", "enrichment": {"skills": ["cplusplus", "csharp", "unity", "spring"], "seniority": "staff", "domain": "gaming", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100072", "enrichment": {"skills": ["solidworks"], "seniority": "senior", "domain": "manufacturing", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100471", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100386", "enrichment": {"skills": ["javascript", "nodejs", "nextjs"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100388", "enrichment": {"skills": [], "seniority": "mid", "domain": "hrtech", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100764", "enrichment": {"skills": [], "seniority": "senior", "domain": "media", "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100043", "enrichment": {"skills": ["python"], "seniority": "intern", "domain": "energy", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100341", "enrichment": {"skills": ["sql", "powerbi"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100124", "enrichment": {"skills": [], "seniority": "principal", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100441", "enrichment": {"skills": ["javascript", "react", "nextjs", "postgres"], "seniority": "staff", "domain": null, "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100092", "enrichment": {"skills": ["django", "postgres", "elasticsearch", "aws", "microservices"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100888", "enrichment": {"skills": [], "seniority": "senior", "domain": "media", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100215", "enrichment": {"skills": ["aws", "python"], "seniority": "senior", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100104", "enrichment": {"skills": ["javascript", "nodejs"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100855", "enrichment": {"skills": ["r"], "seniority": "senior", "domain": "biotech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100616", "enrichment": {"skills": [], "seniority": "intern", "domain": "healthtech", "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100590", "enrichment": {"skills": ["rust", "solidworks"], "seniority": "senior", "domain": "manufacturing", "confidence": 0.75, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100330", "enrichment": {"skills": [], "seniority": "senior", "domain": "energy", "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100451", "enrichment": {"skills": ["python", "databricks"], "seniority": "senior", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-101053", "enrichment": {"skills": ["solidworks"], "seniority": "intern", "domain": "manufacturing", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100803", "enrichment": {"skills": [], "seniority": "principal", "domain": "ai-ml", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100779", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100242", "enrichment": {"skills": ["cplusplus", "csharp", "unity", "terraform", "scrum"], "seniority": "senior", "domain": "gaming", "confidence": 0.85, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100035", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100493", "enrichment": {"skills": ["react", "nodejs", "javascript", "python"], "seniority": null, "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100754", "enrichment": {"skills": ["solidworks"], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100322", "enrichment": {"skills": [], "seniority": "intern", "domain": "logistics-domain", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100876", "enrichment": {"skills": ["javascript", "nodejs", "react", "typescript"], "seniority": "senior", "domain": "edtech", "confidence": 0.9, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100387", "enrichment": {"skills": [], "seniority": "mid", "domain": "fintech", "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100626", "enrichment": {"skills": ["python"], "seniority": "mid", "domain": "energy", "confidence": 0.7, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100787", "enrichment": {"skills": [], "seniority": null, "domain": "biotech", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100274", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.4, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100576", "enrichment": {"skills": ["cplusplus", "csharp", "unity"], "seniority": "senior", "domain": "gaming", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100158", "enrichment": {"skills": [], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100230", "enrichment": {"skills": ["csharp", "unity"], "seniority": "senior", "domain": "gaming", "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100693", "enrichment": {"skills": [], "seniority": "staff", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100254", "enrichment": {"skills": ["python", "go", "tableau"], "seniority": "staff", "domain": "healthtech", "confidence": 0.7, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100919", "enrichment": {"skills": [], "seniority": "mid", "domain": "logistics-domain", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100187", "enrichment": {"skills": ["django", "python", "sql", "elasticsearch", "postgres", "caching", "performance-tuning"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100007", "enrichment": {"skills": ["python", "django"], "seniority": "senior", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100317", "enrichment": {"skills": ["csharp", "unity", "javascript"], "seniority": null, "domain": "gaming", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100399", "enrichment": {"skills": [], "seniority": "junior", "domain": "manufacturing", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100973", "enrichment": {"skills": ["python", "typescript"], "seniority": "senior", "domain": "logistics-domain", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100262", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "logistics-domain", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100285", "enrichment": {"skills": ["python", "airflow"], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100209", "enrichment": {"skills": ["powerbi", "tableau"], "seniority": "mid", "domain": "consulting", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100915", "enrichment": {"skills": [], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100280", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100310", "enrichment": {"skills": ["python", "aws"], "seniority": "principal", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100369", "enrichment": {"skills": ["csharp", "cplusplus", "unity"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100335", "enrichment": {"skills": [], "seniority": null, "domain": "logistics-domain", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100428", "enrichment": {"skills": ["python"], "seniority": null, "domain": "logistics-domain", "confidence": 0.4, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100920", "enrichment": {"skills": [], "seniority": "junior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100373", "enrichment": {"skills": [], "seniority": null, "domain": "manufacturing", "confidence": 0.3, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100517", "enrichment": {"skills": [], "seniority": "intern", "domain": "biotech", "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100253", "enrichment": {"skills": ["solidworks"], "seniority": "intern", "domain": "manufacturing", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100692", "enrichment": {"skills": [], "seniority": null, "domain": "fintech", "confidence": 0.4, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100303", "enrichment": {"skills": [], "seniority": "mid", "domain": "fintech", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100704", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100293", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100583", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100726", "enrichment": {"skills": ["python", "csharp", "postgres", "redis"], "seniority": "principal", "domain": "saas", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100368", "enrichment": {"skills": ["databricks", "redshift", "kubernetes"], "seniority": "senior", "domain": "data-platform", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100863", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100675", "enrichment": {"skills": ["csharp", "dotnet", "cplusplus", "unity", "windows-server", "azure"], "seniority": "staff", "domain": "gaming", "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100893", "enrichment": {"skills": ["python"], "seniority": "staff", "domain": "cybersecurity", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100866", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100821", "enrichment": {"skills": ["javascript", "nodejs", "typescript", "nextjs"], "seniority": "mid", "domain": null, "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100288", "enrichment": {"skills": ["csharp", "solidworks"], "seniority": "senior", "domain": "manufacturing", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100547", "enrichment": {"skills": [], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100000", "enrichment": {"skills": ["cplusplus", "csharp", "unity"], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100458", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100651", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100880", "enrichment": {"skills": [], "seniority": "senior", "domain": "fintech", "confidence": 0.75, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100415", "enrichment": {"skills": [], "seniority": "staff", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100954", "enrichment": {"skills": ["aws", "bigquery"], "seniority": "senior", "domain": "data-platform", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100278", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100040", "enrichment": {"skills": ["django", "postgres", "elasticsearch", "python", "kubernetes"], "seniority": "staff", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100671", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100750", "enrichment": {"skills": ["spring", "sql"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100745", "enrichment": {"skills": [], "seniority": "senior", "domain": "media", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100857", "enrichment": {"skills": ["spring"], "seniority": "mid", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100987", "enrichment": {"skills": ["java", "javascript", "nodejs", "react"], "seniority": "senior", "domain": "ecommerce", "confidence": 0.9, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100180", "enrichment": {"skills": [], "seniority": "senior", "domain": "fintech", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100069", "enrichment": {"skills": ["csharp", "dotnet", "unity", "python"], "seniority": null, "domain": "gaming", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100223", "enrichment": {"skills": ["javascript", "nodejs", "performance-tuning"], "seniority": "staff", "domain": "ecommerce", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100820", "enrichment": {"skills": [], "seniority": "intern", "domain": "fintech", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-101024", "enrichment": {"skills": ["python"], "seniority": "mid", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100439", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.7, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100336", "enrichment": {"skills": ["sql", "kubernetes", "databricks"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100186", "enrichment": {"skills": ["spring"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100532", "enrichment": {"skills": ["nextjs", "typescript", "javascript", "nodejs"], "seniority": "junior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100611", "enrichment": {"skills": ["typescript", "javascript", "nodejs"], "seniority": "staff", "domain": "edtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100440", "enrichment": {"skills": ["spring"], "seniority": "principal", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100014", "enrichment": {"skills": ["javascript", "nodejs", "java", "mysql"], "seniority": "mid", "domain": "ecommerce", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100001", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100995", "enrichment": {"skills": ["java", "postgres"], "seniority": "mid", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100869", "enrichment": {"skills": [], "seniority": "principal", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100446", "enrichment": {"skills": ["spring"], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-101059", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100699", "enrichment": {"skills": ["typescript", "rust", "unity"], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100309", "enrichment": {"skills": ["javascript", "nodejs"], "seniority": "junior", "domain": "ecommerce", "confidence": 0.7, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100815", "enrichment": {"skills": ["aws", "typescript"], "seniority": "executive", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100546", "enrichment": {"skills": ["tableau"], "seniority": "senior", "domain": "data-platform", "confidence": 0.75, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100172", "enrichment": {"skills": ["python"], "seniority": "principal", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100993", "enrichment": {"skills": [], "seniority": "senior", "domain": "infrastructure", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100718", "enrichment": {"skills": ["tableau"], "seniority": "senior", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100411", "enrichment": {"skills": ["r"], "seniority": "mid", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100390", "enrichment": {"skills": [], "seniority": "senior", "domain": "media", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100795", "enrichment": {"skills": ["powerbi", "tableau"], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100355", "enrichment": {"skills": ["python", "r"], "seniority": "staff", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100056", "enrichment": {"skills": ["python"], "seniority": "junior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100508", "enrichment": {"skills": [], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-101015", "enrichment": {"skills": [], "seniority": "mid", "domain": "energy", "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100716", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101005", "enrichment": {"skills": [], "seniority": "staff", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100966", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100800", "enrichment": {"skills": ["tableau"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100649", "enrichment": {"skills": [], "seniority": "principal", "domain": "data-platform", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100511", "enrichment": {"skills": ["python"], "seniority": "staff", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100659", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100299", "enrichment": {"skills": ["django", "python"], "seniority": "senior", "domain": "saas", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100395", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100312", "enrichment": {"skills": ["tableau", "powerbi", "sql"], "seniority": "junior", "domain": "consulting", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100786", "enrichment": {"skills": ["python", "tableau"], "seniority": "senior", "domain": "healthtech", "confidence": 0.85, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100443", "enrichment": {"skills": [], "seniority": "intern", "domain": "fintech", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100203", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "logistics-domain", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100976", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100207", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100320", "enrichment": {"skills": ["postgres", "spring"], "seniority": "principal", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100796", "enrichment": {"skills": ["tableau"], "seniority": "senior", "domain": "hrtech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100301", "enrichment": {"skills": ["rust", "go", "typescript", "github-actions", "docker", "kubernetes"], "seniority": "principal", "domain": null, "confidence": 0.75, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100068", "enrichment": {"skills": ["tableau", "workday"], "seniority": "mid", "domain": "hrtech", "confidence": 0.7, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100571", "enrichment": {"skills": ["r"], "seniority": "intern", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100875", "enrichment": {"skills": ["tableau", "aws"], "seniority": "mid", "domain": "hrtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100691", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-101040", "enrichment": {"skills": ["aws", "postgres", "javascript", "typescript", "nodejs"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100667", "enrichment": {"skills": [], "seniority": "junior", "domain": "logistics-domain", "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100665", "enrichment": {"skills": ["javascript", "nodejs"], "seniority": "junior", "domain": "ecommerce", "confidence": 0.7, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100221", "enrichment": {"skills": [], "seniority": "principal", "domain": "biotech", "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101007", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100854", "enrichment": {"skills": [], "seniority": "junior", "domain": "edtech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100140", "enrichment": {"skills": [], "seniority": "senior", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100448", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100134", "enrichment": {"skills": ["python"], "seniority": "staff", "domain": "logistics-domain", "confidence": 0.7, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100861", "enrichment": {"skills": [], "seniority": "senior", "domain": "ecommerce", "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100138", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100929", "enrichment": {"skills": ["azure", "gcp", "aws", "jenkins", "kubernetes", "terraform"], "seniority": "senior", "domain": "devtools", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100315", "enrichment": {"skills": ["powerbi", "tableau"], "seniority": null, "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100871", "enrichment": {"skills": ["csharp", "unity"], "seniority": null, "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100580", "enrichment": {"skills": ["csharp", "cplusplus", "python"], "seniority": "mid", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100024", "enrichment": {"skills": ["nodejs", "typescript", "postgres"], "seniority": "senior", "domain": "edtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100897", "enrichment": {"skills": [], "seniority": "staff", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100289", "enrichment": {"skills": ["cplusplus", "csharp", "unity"], "seniority": "principal", "domain": "gaming", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100879", "enrichment": {"skills": ["r", "python"], "seniority": "staff", "domain": "biotech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100499", "enrichment": {"skills": ["python", "tableau"], "seniority": "staff", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100632", "enrichment": {"skills": ["postgres", "spring", "kafka", "java"], "seniority": "senior", "domain": "fintech", "confidence": 0.9, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101021", "enrichment": {"skills": ["csharp", "cplusplus", "unity", "unreal", "terraform"], "seniority": "junior", "domain": "gaming", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100917", "enrichment": {"skills": ["express"], "seniority": null, "domain": "media", "confidence": 0.4, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100066", "enrichment": {"skills": ["python", "r"], "seniority": "senior", "domain": "biotech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100329", "enrichment": {"skills": ["python", "tableau", "javascript", "nodejs"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100523", "enrichment": {"skills": ["python", "go"], "seniority": "principal", "domain": "logistics-domain", "confidence": 0.9, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100903", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100354", "enrichment": {"skills": ["csharp", "cplusplus", "unity"], "seniority": "staff", "domain": "gaming", "confidence": 0.85, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100514", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100744", "enrichment": {"skills": ["typescript", "rust", "go", "kubernetes", "redis"], "seniority": null, "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100505", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.3, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100022", "enrichment": {"skills": [], "seniority": "senior", "domain": "ecommerce", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100384", "enrichment": {"skills": ["typescript", "rust", "go", "kubernetes"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-101012", "enrichment": {"skills": ["python"], "seniority": "principal", "domain": "logistics-domain", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100895", "enrichment": {"skills": [], "seniority": "senior", "domain": "ai-ml", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100643", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100644", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100673", "enrichment": {"skills": ["tableau", "python"], "seniority": "mid", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100830", "enrichment": {"skills": [], "seniority": "executive", "domain": "fintech", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100781", "enrichment": {"skills": ["csharp", "cplusplus", "unity", "docker", "kubernetes", "agile", "scrum"], "seniority": "senior", "domain": "gaming", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100812", "enrichment": {"skills": ["python", "airflow", "aws"], "seniority": "mid", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100730", "enrichment": {"skills": ["python"], "seniority": "mid", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100409", "enrichment": {"skills": ["javascript", "nodejs", "typescript", "aws", "nextjs"], "seniority": "staff", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100702", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100751", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100350", "enrichment": {"skills": ["python", "tableau"], "seniority": null, "domain": "healthtech", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100613", "enrichment": {"skills": ["react"], "seniority": "junior", "domain": "retail", "confidence": 0.7, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100746", "enrichment": {"skills": [], "seniority": "mid", "domain": "logistics-domain", "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100190", "enrichment": {"skills": ["python"], "seniority": null, "domain": "healthtech", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100755", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100331", "enrichment": {"skills": ["django", "python", "postgres", "caching"], "seniority": "director", "domain": "fintech", "confidence": 0.85, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100638", "enrichment": {"skills": ["django", "python", "redis", "unity"], "seniority": "mid", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100940", "enrichment": {"skills": ["kafka", "spring"], "seniority": "principal", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-101050", "enrichment": {"skills": [], "seniority": null, "domain": "logistics-domain", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100551", "enrichment": {"skills": ["python", "django", "postgres", "elasticsearch", "aws", "scrum"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100809", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100408", "enrichment": {"skills": [], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100073", "enrichment": {"skills": ["tableau"], "seniority": "staff", "domain": "hrtech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100989", "enrichment": {"skills": [], "seniority": "staff", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100668", "enrichment": {"skills": ["python", "tableau"], "seniority": null, "domain": "healthtech", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100266", "enrichment": {"skills": ["aws", "kubernetes", "tableau"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100150", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100084", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100636", "enrichment": {"skills": ["python", "django", "postgres"], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100535", "enrichment": {"skills": ["powerbi", "tableau"], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100103", "enrichment": {"skills": ["powerbi", "tableau", "csharp"], "seniority": "junior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100296", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100246", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100250", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100023", "enrichment": {"skills": ["angular", "airflow"], "seniority": "mid", "domain": "logistics-domain", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100826", "enrichment": {"skills": ["nodejs"], "seniority": "senior", "domain": "ecommerce", "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100596", "enrichment": {"skills": ["python"], "seniority": "mid", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100518", "enrichment": {"skills": [], "seniority": "junior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100923", "enrichment": {"skills": [], "seniority": "staff", "domain": "healthtech", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100494", "enrichment": {"skills": ["mysql", "elasticsearch", "python"], "seniority": "mid", "domain": "ecommerce", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100111", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100042", "enrichment": {"skills": ["tableau", "workday", "terraform"], "seniority": "staff", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100198", "enrichment": {"skills": ["csharp", "cplusplus", "terraform", "unity"], "seniority": "senior", "domain": "gaming", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100456", "enrichment": {"skills": [], "seniority": null, "domain": "fintech", "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100827", "enrichment": {"skills": ["javascript", "aws"], "seniority": "mid", "domain": "ai-ml", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100656", "enrichment": {"skills": ["typescript"], "seniority": "senior", "domain": "edtech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100379", "enrichment": {"skills": ["typescript", "go", "azure", "aws", "docker", "kubernetes"], "seniority": "principal", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100431", "enrichment": {"skills": ["sql", "python", "spring", "aws", "docker", "gitlab-ci", "agile", "scrum"], "seniority": "mid", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100561", "enrichment": {"skills": ["python"], "seniority": "junior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100635", "enrichment": {"skills": ["python", "django"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100219", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100098", "enrichment": {"skills": ["python"], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100147", "enrichment": {"skills": [], "seniority": "staff", "domain": "manufacturing", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100778", "enrichment": {"skills": ["tableau", "powerbi", "kubernetes"], "seniority": "junior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100019", "enrichment": {"skills": ["javascript", "nodejs", "postgres"], "seniority": "senior", "domain": "edtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-101018", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100840", "enrichment": {"skills": ["tableau", "powerbi"], "seniority": "senior", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100715", "enrichment": {"skills": ["kubernetes", "jenkins", "python"], "seniority": "mid", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100947", "enrichment": {"skills": ["python", "r"], "seniority": "staff", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100582", "enrichment": {"skills": ["nodejs"], "seniority": "senior", "domain": "media", "confidence": 0.75, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100139", "enrichment": {"skills": ["python", "django"], "seniority": null, "domain": null, "confidence": 0.4, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100537", "enrichment": {"skills": [], "seniority": "staff", "domain": "cybersecurity", "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100049", "enrichment": {"skills": ["python", "aws", "gcp", "docker", "kubernetes"], "seniority": "senior", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100574", "enrichment": {"skills": ["java"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100385", "enrichment": {"skills": ["javascript", "nodejs"], "seniority": "senior", "domain": "retail", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100807", "enrichment": {"skills": ["postgres"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100838", "enrichment": {"skills": [], "seniority": "junior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100967", "enrichment": {"skills": [], "seniority": "mid", "domain": "energy", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100407", "enrichment": {"skills": [], "seniority": "manager", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100466", "enrichment": {"skills": ["postgres", "spring", "pci-dss", "java"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100822", "enrichment": {"skills": ["aws", "postgres"], "seniority": "executive", "domain": "saas", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100429", "enrichment": {"skills": [], "seniority": "junior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100081", "enrichment": {"skills": [], "seniority": "principal", "domain": "energy", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100664", "enrichment": {"skills": ["python", "tableau", "terraform"], "seniority": "senior", "domain": "healthtech", "confidence": 0.9, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100520", "enrichment": {"skills": [], "seniority": "principal", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100793", "enrichment": {"skills": ["python"], "seniority": "staff", "domain": "cybersecurity", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100008", "enrichment": {"skills": ["tableau", "powerbi", "kubernetes"], "seniority": "senior", "domain": "consulting", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100978", "enrichment": {"skills": ["aws", "gcp", "azure", "docker", "kubernetes"], "seniority": "senior", "domain": "devtools", "confidence": 0.7, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100267", "enrichment": {"skills": ["python", "javascript", "sql", "docker"], "seniority": "principal", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100238", "enrichment": {"skills": ["python", "javascript", "kubernetes", "docker"], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.9, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100516", "enrichment": {"skills": [], "seniority": "junior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100482", "enrichment": {"skills": [], "seniority": "senior", "domain": "data-platform", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100363", "enrichment": {"skills": [], "seniority": "staff", "domain": "hrtech", "confidence": 0.75, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100660", "enrichment": {"skills": ["cplusplus", "csharp", "unity"], "seniority": "senior", "domain": "gaming", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100942", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100115", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100214", "enrichment": {"skills": [], "seniority": "mid", "domain": "cybersecurity", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100168", "enrichment": {"skills": ["python", "aws"], "seniority": "staff", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100319", "enrichment": {"skills": [], "seniority": "staff", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101033", "enrichment": {"skills": ["typescript", "go", "rust", "javascript", "nodejs"], "seniority": null, "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100850", "enrichment": {"skills": [], "seniority": "principal", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100133", "enrichment": {"skills": [], "seniority": null, "domain": "ai-ml", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100592", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100234", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100832", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100176", "enrichment": {"skills": ["spring"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100197", "enrichment": {"skills": [], "seniority": "staff", "domain": "ai-ml", "confidence": 0.8, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100435", "enrichment": {"skills": ["django", "postgres"], "seniority": "senior", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100738", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100689", "enrichment": {"skills": ["django"], "seniority": "junior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100825", "enrichment": {"skills": ["python", "elasticsearch"], "seniority": "mid", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100711", "enrichment": {"skills": ["python", "django", "ruby", "rails"], "seniority": "senior", "domain": "consulting", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101054", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100975", "enrichment": {"skills": ["javascript", "react", "postgres", "nodejs"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100352", "enrichment": {"skills": ["typescript", "nodejs", "postgres", "aws", "docker", "kubernetes", "nextjs"], "seniority": "staff", "domain": "saas", "confidence": 0.9, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100018", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100982", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-101020", "enrichment": {"skills": [], "seniority": "principal", "domain": "energy", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100890", "enrichment": {"skills": ["java"], "seniority": "junior", "domain": "fintech", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100313", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100127", "enrichment": {"skills": ["python", "tableau"], "seniority": "mid", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100722", "enrichment": {"skills": ["sql"], "seniority": "senior", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100095", "enrichment": {"skills": [], "seniority": "intern", "domain": "healthtech", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100425", "enrichment": {"skills": ["python"], "seniority": "intern", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100648", "enrichment": {"skills": ["javascript", "nodejs", "express", "typescript", "python", "sql"], "seniority": "staff", "domain": "edtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100544", "enrichment": {"skills": ["python", "tableau"], "seniority": "senior", "domain": "healthtech", "confidence": 0.9, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100154", "enrichment": {"skills": ["rust", "typescript", "go", "github-actions"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100044", "enrichment": {"skills": ["python"], "seniority": "principal", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100936", "enrichment": {"skills": ["typescript", "kubernetes", "gitlab-ci"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100145", "enrichment": {"skills": ["sql", "tableau", "powerbi"], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100870", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100913", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100847", "enrichment": {"skills": ["aws", "kubernetes", "terraform", "docker"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100162", "enrichment": {"skills": [], "seniority": "staff", "domain": "media", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100270", "enrichment": {"skills": [], "seniority": "senior", "domain": "fintech", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101027", "enrichment": {"skills": ["python"], "seniority": null, "domain": "media", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100558", "enrichment": {"skills": ["go", "kubernetes", "rust", "gitlab-ci"], "seniority": "principal", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100393", "enrichment": {"skills": ["python"], "seniority": "mid", "domain": "energy", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100985", "enrichment": {"skills": ["nextjs", "aws", "salesforce"], "seniority": "junior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100314", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100213", "enrichment": {"skills": ["rust", "typescript"], "seniority": "staff", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100723", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100901", "enrichment": {"skills": ["tableau", "powerbi"], "seniority": null, "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101002", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100780", "enrichment": {"skills": ["python", "aws"], "seniority": "senior", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100380", "enrichment": {"skills": [], "seniority": "junior", "domain": "manufacturing", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100753", "enrichment": {"skills": ["javascript", "typescript", "python", "nodejs", "postgres", "aws", "nextjs"], "seniority": null, "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100128", "enrichment": {"skills": [], "seniority": "senior", "domain": "biotech", "confidence": 0.7, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100102", "enrichment": {"skills": ["python"], "seniority": "mid", "domain": "energy", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100926", "enrichment": {"skills": ["kafka", "postgres", "spring"], "seniority": "senior", "domain": "fintech", "confidence": 0.9, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100208", "enrichment": {"skills": ["postgres"], "seniority": "senior", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100006", "enrichment": {"skills": ["react", "typescript", "nodejs", "java", "postgres"], "seniority": "staff", "domain": "edtech", "confidence": 0.9, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100245", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100526", "enrichment": {"skills": ["csharp", "solidworks", "mysql"], "seniority": "senior", "domain": "manufacturing", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100261", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100791", "enrichment": {"skills": ["aws", "nextjs", "postgres"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-101003", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100952", "enrichment": {"skills": [], "seniority": "senior", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100721", "enrichment": {"skills": ["cplusplus", "unity"], "seniority": null, "domain": "gaming", "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100477", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100189", "enrichment": {"skills": ["tableau", "python"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100146", "enrichment": {"skills": ["solidworks", "firmware", "kubernetes"], "seniority": "principal", "domain": "manufacturing", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100717", "enrichment": {"skills": ["python"], "seniority": "principal", "domain": "ai-ml", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100959", "enrichment": {"skills": ["tableau", "python"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100922", "enrichment": {"skills": ["spring", "postgres", "aws", "gcp"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100406", "enrichment": {"skills": ["python"], "seniority": "junior", "domain": "healthtech", "confidence": 0.7, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100998", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100935", "enrichment": {"skills": [], "seniority": null, "domain": "ai-ml", "confidence": 0.2, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100798", "enrichment": {"skills": ["python", "sql", "terraform"], "seniority": "senior", "domain": "fintech", "confidence": 0.9, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100220", "enrichment": {"skills": ["tableau", "workday"], "seniority": "principal", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100365", "enrichment": {"skills": ["tableau", "workday"], "seniority": "principal", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100612", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-101013", "enrichment": {"skills": ["javascript", "nodejs", "typescript", "aws", "nextjs", "postgres"], "seniority": null, "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100708", "enrichment": {"skills": ["sql"], "seniority": "mid", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100839", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100004", "enrichment": {"skills": ["python", "javascript", "tableau"], "seniority": null, "domain": "healthtech", "confidence": 0.4, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100792", "enrichment": {"skills": ["cplusplus", "csharp", "unity", "kubernetes"], "seniority": "senior", "domain": "gaming", "confidence": 0.75, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100641", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100217", "enrichment": {"skills": [], "seniority": "principal", "domain": null, "confidence": 0.4, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100005", "enrichment": {"skills": ["javascript", "nodejs"], "seniority": "junior", "domain": "edtech", "confidence": 0.75, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100157", "enrichment": {"skills": ["python", "sql"], "seniority": "senior", "domain": null, "confidence": 0.66, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101056", "enrichment": {"skills": ["csharp", "javascript"], "seniority": null, "domain": "gaming", "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100849", "enrichment": {"skills": [], "seniority": "staff", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100136", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.4, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100709", "enrichment": {"skills": [], "seniority": "mid", "domain": "logistics-domain", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100258", "enrichment": {"skills": [], "seniority": "senior", "domain": "ai-ml", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-101039", "enrichment": {"skills": ["python", "tableau"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101042", "enrichment": {"skills": [], "seniority": "junior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100464", "enrichment": {"skills": ["python", "airflow", "nodejs", "react"], "seniority": "mid", "domain": "logistics-domain", "confidence": 0.85, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100677", "enrichment": {"skills": ["nodejs", "typescript", "sql", "jest"], "seniority": "mid", "domain": "edtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100378", "enrichment": {"skills": [], "seniority": "junior", "domain": "healthtech", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100713", "enrichment": {"skills": ["python"], "seniority": "principal", "domain": "cybersecurity", "confidence": 0.85, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100467", "enrichment": {"skills": ["javascript"], "seniority": "intern", "domain": "ai-ml", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100141", "enrichment": {"skills": [], "seniority": null, "domain": "gaming", "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100423", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100756", "enrichment": {"skills": [], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100607", "enrichment": {"skills": [], "seniority": "mid", "domain": "healthtech", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100979", "enrichment": {"skills": ["aws", "kubernetes", "tableau"], "seniority": "principal", "domain": "saas", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100486", "enrichment": {"skills": ["java", "postgres"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100951", "enrichment": {"skills": [], "seniority": "principal", "domain": "ai-ml", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100247", "enrichment": {"skills": [], "seniority": "principal", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100337", "enrichment": {"skills": ["rust", "typescript", "kubernetes"], "seniority": "manager", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100906", "enrichment": {"skills": [], "seniority": null, "domain": "healthtech", "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100094", "enrichment": {"skills": [], "seniority": "staff", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100971", "enrichment": {"skills": ["csharp", "dotnet", "unity"], "seniority": "senior", "domain": "gaming", "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100276", "enrichment": {"skills": ["nodejs", "aws"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100366", "enrichment": {"skills": ["python", "aws"], "seniority": "principal", "domain": "biotech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100767", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100652", "enrichment": {"skills": ["nodejs", "typescript", "postgres"], "seniority": "staff", "domain": "edtech", "confidence": 0.85, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100627", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100240", "enrichment": {"skills": ["javascript", "nodejs", "typescript"], "seniority": "staff", "domain": "edtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100556", "enrichment": {"skills": ["python", "aws"], "seniority": "principal", "domain": "logistics-domain", "confidence": 0.75, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100232", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100108", "enrichment": {"skills": ["azure", "gcp", "docker"], "seniority": "junior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100568", "enrichment": {"skills": [], "seniority": "principal", "domain": "ecommerce", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100846", "enrichment": {"skills": ["python", "tableau"], "seniority": null, "domain": "logistics-domain", "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100311", "enrichment": {"skills": ["python", "aws"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100729", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "biotech", "confidence": 0.75, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100263", "enrichment": {"skills": ["typescript", "nodejs", "angular", "javascript", "sql"], "seniority": "senior", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100548", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100687", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100400", "enrichment": {"skills": ["python"], "seniority": "intern", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100814", "enrichment": {"skills": ["python", "sql"], "seniority": "senior", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100694", "enrichment": {"skills": [], "seniority": "senior", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100731", "enrichment": {"skills": ["sql", "python", "aws"], "seniority": "mid", "domain": "data-platform", "confidence": 0.9, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101055", "enrichment": {"skills": [], "seniority": "senior", "domain": "manufacturing", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100184", "enrichment": {"skills": [], "seniority": "principal", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100372", "enrichment": {"skills": ["python", "databricks", "aws"], "seniority": "senior", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100404", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100468", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.2, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100447", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100344", "enrichment": {"skills": [], "seniority": "staff", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100527", "enrichment": {"skills": ["javascript", "typescript", "react"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100114", "enrichment": {"skills": [], "seniority": "principal", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100647", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100806", "enrichment": {"skills": [], "seniority": "principal", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-101038", "enrichment": {"skills": [], "seniority": "director", "domain": "media", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100339", "enrichment": {"skills": ["nextjs"], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100268", "enrichment": {"skills": [], "seniority": "staff", "domain": "energy", "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100206", "enrichment": {"skills": ["python"], "seniority": "principal", "domain": "logistics-domain", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100794", "enrichment": {"skills": ["typescript", "rust", "go"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100059", "enrichment": {"skills": ["nodejs", "typescript", "javascript", "aws"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100564", "enrichment": {"skills": ["tableau", "powerbi"], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100367", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100225", "enrichment": {"skills": [], "seniority": "junior", "domain": "fintech", "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100473", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100882", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100070", "enrichment": {"skills": [], "seniority": null, "domain": "energy", "confidence": 0.3, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100608", "enrichment": {"skills": ["javascript", "nodejs", "typescript", "postgres"], "seniority": "senior", "domain": "edtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100620", "enrichment": {"skills": ["python"], "seniority": "mid", "domain": "ai-ml", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100872", "enrichment": {"skills": [], "seniority": "junior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100033", "enrichment": {"skills": ["solidworks", "unity"], "seniority": "mid", "domain": "manufacturing", "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100625", "enrichment": {"skills": ["python", "tableau", "hipaa"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100835", "enrichment": {"skills": ["nodejs"], "seniority": "intern", "domain": "edtech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100865", "enrichment": {"skills": [], "seniority": "principal", "domain": "data-platform", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100884", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100603", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100789", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101001", "enrichment": {"skills": [], "seniority": "senior", "domain": "edtech", "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100036", "enrichment": {"skills": ["spring"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100670", "enrichment": {"skills": ["powerbi"], "seniority": "intern", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100469", "enrichment": {"skills": [], "seniority": "junior", "domain": "ai-ml", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100305", "enrichment": {"skills": [], "seniority": "principal", "domain": "logistics-domain", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100119", "enrichment": {"skills": ["tableau"], "seniority": "intern", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100483", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100567", "enrichment": {"skills": ["typescript", "docker", "api-design"], "seniority": "mid", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100417", "enrichment": {"skills": [], "seniority": "staff", "domain": "data-platform", "confidence": 0.75, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100553", "enrichment": {"skills": ["aws"], "seniority": "staff", "domain": "ai-ml", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100859", "enrichment": {"skills": ["python"], "seniority": "mid", "domain": "cybersecurity", "confidence": 0.7, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100025", "enrichment": {"skills": ["csharp"], "seniority": null, "domain": "gaming", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100619", "enrichment": {"skills": ["cplusplus", "csharp", "unity", "terraform", "kubernetes"], "seniority": "senior", "domain": "gaming", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100153", "enrichment": {"skills": ["python", "tableau"], "seniority": "senior", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100419", "enrichment": {"skills": [], "seniority": "senior", "domain": "healthtech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100953", "enrichment": {"skills": ["react", "nodejs", "spring"], "seniority": "senior", "domain": "ecommerce", "confidence": 0.85, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100188", "enrichment": {"skills": ["nodejs", "elasticsearch"], "seniority": "senior", "domain": "ecommerce", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100012", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100204", "enrichment": {"skills": ["nodejs", "react", "typescript"], "seniority": "senior", "domain": "edtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100529", "enrichment": {"skills": ["python", "kubernetes"], "seniority": "mid", "domain": "data-platform", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100118", "enrichment": {"skills": ["postgres"], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100763", "enrichment": {"skills": [], "seniority": "junior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100174", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "ai-ml", "confidence": 0.75, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100374", "enrichment": {"skills": ["postgres"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100121", "enrichment": {"skills": ["cplusplus", "java"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100318", "enrichment": {"skills": [], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101048", "enrichment": {"skills": ["cplusplus", "csharp", "unity"], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100211", "enrichment": {"skills": ["typescript", "aws", "docker", "jenkins"], "seniority": null, "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101045", "enrichment": {"skills": [], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100450", "enrichment": {"skills": ["python"], "seniority": "mid", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100774", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100762", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.4, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100984", "enrichment": {"skills": ["nodejs", "javascript", "aws"], "seniority": "mid", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101031", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100837", "enrichment": {"skills": ["nextjs", "nodejs"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100011", "enrichment": {"skills": [], "seniority": "mid", "domain": "ecommerce", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100703", "enrichment": {"skills": ["aws", "kubernetes", "spring"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100867", "enrichment": {"skills": ["spring"], "seniority": "mid", "domain": "fintech", "confidence": 0.85, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100109", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100860", "enrichment": {"skills": ["aws", "jenkins", "kubernetes", "windows-server", "terraform"], "seniority": "senior", "domain": "devtools", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100057", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100824", "enrichment": {"skills": ["tableau", "python"], "seniority": "senior", "domain": "hrtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100434", "enrichment": {"skills": [], "seniority": "senior", "domain": "consulting", "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100885", "enrichment": {"skills": ["python", "sql", "snowflake"], "seniority": "staff", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100513", "enrichment": {"skills": ["nodejs", "react"], "seniority": "senior", "domain": "ecommerce", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100560", "enrichment": {"skills": ["python", "tableau"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100737", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100163", "enrichment": {"skills": [], "seniority": "staff", "domain": "media", "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100002", "enrichment": {"skills": ["solidworks", "python"], "seniority": "principal", "domain": "manufacturing", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100663", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100905", "enrichment": {"skills": ["r"], "seniority": "mid", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100216", "enrichment": {"skills": ["tableau"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100332", "enrichment": {"skills": ["python"], "seniority": "director", "domain": "cybersecurity", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100205", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100960", "enrichment": {"skills": ["tableau"], "seniority": "senior", "domain": "hrtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100177", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100907", "enrichment": {"skills": ["javascript", "nodejs", "redis"], "seniority": "senior", "domain": "ecommerce", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100633", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100199", "enrichment": {"skills": [], "seniority": "mid", "domain": "edtech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100009", "enrichment": {"skills": ["javascript"], "seniority": "senior", "domain": "retail", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100017", "enrichment": {"skills": ["nextjs"], "seniority": "mid", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100999", "enrichment": {"skills": ["typescript", "nodejs"], "seniority": null, "domain": "edtech", "confidence": 0.3, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-101019", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100391", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100842", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100123", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100071", "enrichment": {"skills": [], "seniority": "manager", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100927", "enrichment": {"skills": ["nodejs", "javascript", "sql"], "seniority": "staff", "domain": "ecommerce", "confidence": 0.9, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100112", "enrichment": {"skills": ["tableau", "powerbi"], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100747", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100588", "enrichment": {"skills": ["aws", "gcp"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100769", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100244", "enrichment": {"skills": ["r"], "seniority": "intern", "domain": "biotech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100565", "enrichment": {"skills": ["solidworks"], "seniority": "senior", "domain": "manufacturing", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100939", "enrichment": {"skills": ["javascript", "nodejs"], "seniority": "junior", "domain": "ecommerce", "confidence": 0.7, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100610", "enrichment": {"skills": [], "seniority": "senior", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100167", "enrichment": {"skills": [], "seniority": null, "domain": "gaming", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100433", "enrichment": {"skills": ["python"], "seniority": "staff", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100307", "enrichment": {"skills": ["nodejs", "javascript", "sql"], "seniority": "junior", "domain": "ecommerce", "confidence": 0.7, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-101000", "enrichment": {"skills": ["javascript", "nextjs", "nodejs", "unit-testing", "docker"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100126", "enrichment": {"skills": ["python"], "seniority": null, "domain": "healthtech", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100877", "enrichment": {"skills": ["javascript", "typescript", "nodejs", "aws", "terraform"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100106", "enrichment": {"skills": ["python", "django", "postgres", "airflow"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100961", "enrichment": {"skills": [], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100239", "enrichment": {"skills": ["javascript", "nodejs", "nextjs", "typescript"], "seniority": "junior", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100543", "enrichment": {"skills": ["csharp", "cplusplus", "unity"], "seniority": "principal", "domain": "gaming", "confidence": 0.9, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100981", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100353", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "logistics-domain", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100037", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100297", "enrichment": {"skills": ["powerbi", "tableau", "gitlab-ci"], "seniority": "principal", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100938", "enrichment": {"skills": ["python"], "seniority": "principal", "domain": "biotech", "confidence": 0.85, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100688", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100080", "enrichment": {"skills": ["python"], "seniority": "mid", "domain": "biotech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100362", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100202", "enrichment": {"skills": ["pytorch"], "seniority": "senior", "domain": "ai-ml", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100065", "enrichment": {"skills": ["typescript", "rust", "go"], "seniority": "mid", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100010", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100600", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100178", "enrichment": {"skills": [], "seniority": "staff", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100555", "enrichment": {"skills": [], "seniority": "senior", "domain": "logistics-domain", "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100185", "enrichment": {"skills": [], "seniority": "principal", "domain": "media", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100457", "enrichment": {"skills": ["python", "tableau"], "seniority": "principal", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100191", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100614", "enrichment": {"skills": [], "seniority": "staff", "domain": "logistics-domain", "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100606", "enrichment": {"skills": ["python", "django"], "seniority": null, "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100563", "enrichment": {"skills": ["javascript", "typescript", "docker"], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-101051", "enrichment": {"skills": ["r"], "seniority": "principal", "domain": "biotech", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100934", "enrichment": {"skills": ["python", "django"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100790", "enrichment": {"skills": ["python", "tableau", "aws", "postgres", "hipaa", "elasticsearch"], "seniority": "principal", "domain": "healthtech", "confidence": 0.9, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100003", "enrichment": {"skills": ["javascript", "nodejs", "redis"], "seniority": "senior", "domain": "ecommerce", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100053", "enrichment": {"skills": ["snowflake"], "seniority": "senior", "domain": "data-platform", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100130", "enrichment": {"skills": ["rust"], "seniority": "junior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100346", "enrichment": {"skills": [], "seniority": "mid", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100143", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100519", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100974", "enrichment": {"skills": ["python"], "seniority": "mid", "domain": "biotech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100492", "enrichment": {"skills": ["python"], "seniority": "staff", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100181", "enrichment": {"skills": [], "seniority": "staff", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100932", "enrichment": {"skills": ["python"], "seniority": "principal", "domain": "cybersecurity", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100394", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100360", "enrichment": {"skills": [], "seniority": "principal", "domain": "biotech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100823", "enrichment": {"skills": ["python", "csharp"], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100418", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100591", "enrichment": {"skills": ["python", "postgres"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100243", "enrichment": {"skills": ["python"], "seniority": "mid", "domain": "cybersecurity", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100237", "enrichment": {"skills": ["csharp"], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100811", "enrichment": {"skills": [], "seniority": "mid", "domain": "logistics-domain", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100732", "enrichment": {"skills": ["javascript", "typescript", "nodejs", "react", "nextjs", "aws"], "seniority": "principal", "domain": null, "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100359", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100589", "enrichment": {"skills": [], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.8, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100173", "enrichment": {"skills": ["go", "rust", "github-actions", "typescript"], "seniority": "senior", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100868", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100375", "enrichment": {"skills": [], "seniority": "mid", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100122", "enrichment": {"skills": ["typescript"], "seniority": "senior", "domain": "edtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100819", "enrichment": {"skills": ["python"], "seniority": "junior", "domain": "logistics-domain", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100159", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-101011", "enrichment": {"skills": ["python", "pandas"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100902", "enrichment": {"skills": ["tableau"], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100852", "enrichment": {"skills": ["sql", "nodejs", "postgres", "aws", "docker"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100944", "enrichment": {"skills": [], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100333", "enrichment": {"skills": ["tableau"], "seniority": "junior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100105", "enrichment": {"skills": [], "seniority": "junior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100340", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101016", "enrichment": {"skills": ["javascript", "typescript", "nodejs", "postgres"], "seniority": "senior", "domain": "edtech", "confidence": 0.7, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-101030", "enrichment": {"skills": ["javascript", "nodejs", "mysql"], "seniority": "senior", "domain": "ecommerce", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100887", "enrichment": {"skills": [], "seniority": "staff", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100161", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.7, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100034", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100541", "enrichment": {"skills": ["react", "nodejs", "typescript", "postgres"], "seniority": null, "domain": "edtech", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-101006", "enrichment": {"skills": ["postgres", "spring"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100997", "enrichment": {"skills": [], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100302", "enrichment": {"skills": ["tableau"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100083", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100257", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100459", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100152", "enrichment": {"skills": ["django", "postgres", "python", "elasticsearch"], "seniority": null, "domain": null, "confidence": 0.4, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100802", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100058", "enrichment": {"skills": ["python", "django", "postgres", "kubernetes"], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100533", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100914", "enrichment": {"skills": ["react", "typescript", "javascript", "nodejs", "nextjs"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100696", "enrichment": {"skills": ["tableau"], "seniority": "mid", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100097", "enrichment": {"skills": [], "seniority": "mid", "domain": "hrtech", "confidence": 0.7, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100748", "enrichment": {"skills": [], "seniority": "junior", "domain": "ecommerce", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100758", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100554", "enrichment": {"skills": [], "seniority": "principal", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100087", "enrichment": {"skills": ["python"], "seniority": "intern", "domain": "cybersecurity", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100389", "enrichment": {"skills": ["python"], "seniority": "principal", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100695", "enrichment": {"skills": ["java"], "seniority": "intern", "domain": "fintech", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100968", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100398", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101022", "enrichment": {"skills": [], "seniority": "junior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100510", "enrichment": {"skills": ["powerbi"], "seniority": "mid", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100349", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100864", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100557", "enrichment": {"skills": [], "seniority": "senior", "domain": "edtech", "confidence": 0.75, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-101010", "enrichment": {"skills": ["solidworks"], "seniority": "senior", "domain": "manufacturing", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100248", "enrichment": {"skills": ["aws", "sql"], "seniority": "senior", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100941", "enrichment": {"skills": [], "seniority": "staff", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101036", "enrichment": {"skills": ["tableau", "workday"], "seniority": "senior", "domain": "hrtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100382", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100534", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100175", "enrichment": {"skills": [], "seniority": "junior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100463", "enrichment": {"skills": [], "seniority": "intern", "domain": "fintech", "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100682", "enrichment": {"skills": [], "seniority": "mid", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-101034", "enrichment": {"skills": ["javascript", "typescript", "react"], "seniority": "senior", "domain": "saas", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100169", "enrichment": {"skills": ["react"], "seniority": "senior", "domain": "edtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100853", "enrichment": {"skills": [], "seniority": "principal", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101026", "enrichment": {"skills": ["csharp", "terraform", "kubernetes"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100015", "enrichment": {"skills": ["python", "tableau"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100841", "enrichment": {"skills": [], "seniority": "mid", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100228", "enrichment": {"skills": [], "seniority": "junior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100383", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100630", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "logistics-domain", "confidence": 0.9, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100171", "enrichment": {"skills": ["go", "rust", "typescript"], "seniority": "principal", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100943", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100132", "enrichment": {"skills": [], "seniority": "junior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100077", "enrichment": {"skills": [], "seniority": "senior", "domain": "edtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100142", "enrichment": {"skills": ["javascript", "nodejs", "mysql"], "seniority": "senior", "domain": "ecommerce", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100593", "enrichment": {"skills": [], "seniority": "staff", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100089", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100909", "enrichment": {"skills": ["typescript", "nodejs"], "seniority": "principal", "domain": "edtech", "confidence": 0.9, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-101043", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100921", "enrichment": {"skills": ["solidworks"], "seniority": "senior", "domain": "manufacturing", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100497", "enrichment": {"skills": ["rust", "spring"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100666", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100151", "enrichment": {"skills": ["django", "postgres"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100100", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100491", "enrichment": {"skills": ["postgres", "spring"], "seniority": "senior", "domain": "fintech", "confidence": 0.75, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100752", "enrichment": {"skills": ["csharp", "terraform", "kubernetes"], "seniority": "senior", "domain": "gaming", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100980", "enrichment": {"skills": [], "seniority": "staff", "domain": "manufacturing", "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100585", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100858", "enrichment": {"skills": ["django", "kubernetes", "scrum"], "seniority": "mid", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100925", "enrichment": {"skills": ["nodejs", "typescript", "windows-server", "azure", "kubernetes"], "seniority": "senior", "domain": "edtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100046", "enrichment": {"skills": ["react", "unity"], "seniority": "principal", "domain": "ecommerce", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100148", "enrichment": {"skills": ["python", "tableau"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100275", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100801", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100498", "enrichment": {"skills": [], "seniority": "staff", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101047", "enrichment": {"skills": [], "seniority": null, "domain": "gaming", "confidence": 0.3, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100679", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100454", "enrichment": {"skills": ["react"], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100496", "enrichment": {"skills": ["sql", "aws", "bigquery", "snowflake", "kafka"], "seniority": "senior", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100669", "enrichment": {"skills": ["typescript", "docker", "kubernetes"], "seniority": null, "domain": null, "confidence": 0.4, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100891", "enrichment": {"skills": [], "seniority": "principal", "domain": "logistics-domain", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-101058", "enrichment": {"skills": [], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100658", "enrichment": {"skills": ["tableau"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100629", "enrichment": {"skills": ["aws"], "seniority": "senior", "domain": null, "confidence": 0.66, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100623", "enrichment": {"skills": [], "seniority": "senior", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100799", "enrichment": {"skills": ["python", "kubernetes"], "seniority": "principal", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100273", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100361", "enrichment": {"skills": ["csharp", "sql", "tableau", "python"], "seniority": "senior", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100672", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100810", "enrichment": {"skills": ["sql", "aws"], "seniority": "senior", "domain": "data-platform", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100030", "enrichment": {"skills": ["solidworks", "spring"], "seniority": "principal", "domain": "manufacturing", "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100628", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-101035", "enrichment": {"skills": ["sql"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100645", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100904", "enrichment": {"skills": ["solidworks"], "seniority": "intern", "domain": "manufacturing", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100784", "enrichment": {"skills": ["javascript", "nodejs"], "seniority": "senior", "domain": "ecommerce", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100455", "enrichment": {"skills": ["python", "r"], "seniority": "senior", "domain": "biotech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100512", "enrichment": {"skills": [], "seniority": "senior", "domain": "biotech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100304", "enrichment": {"skills": ["django", "python", "javascript"], "seniority": "staff", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100476", "enrichment": {"skills": ["nodejs", "aws", "sql"], "seniority": "senior", "domain": "ecommerce", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100255", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100412", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100683", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100742", "enrichment": {"skills": ["nodejs", "sql"], "seniority": "director", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100768", "enrichment": {"skills": [], "seniority": "senior", "domain": "logistics-domain", "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100402", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100736", "enrichment": {"skills": ["python", "terraform", "kubernetes"], "seniority": "mid", "domain": "biotech", "confidence": 0.7, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100107", "enrichment": {"skills": [], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100539", "enrichment": {"skills": ["python"], "seniority": "junior", "domain": "healthtech", "confidence": 0.7, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100562", "enrichment": {"skills": ["python"], "seniority": null, "domain": "energy", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100515", "enrichment": {"skills": [], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100833", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100414", "enrichment": {"skills": ["mysql", "javascript", "nodejs"], "seniority": "mid", "domain": "retail", "confidence": 0.85, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100475", "enrichment": {"skills": ["javascript", "nodejs", "typescript"], "seniority": "junior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100283", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100460", "enrichment": {"skills": ["csharp", "cplusplus", "unity"], "seniority": "senior", "domain": "gaming", "confidence": 0.9, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100474", "enrichment": {"skills": ["sql"], "seniority": "mid", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100323", "enrichment": {"skills": ["python", "django", "postgres"], "seniority": "staff", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100685", "enrichment": {"skills": [], "seniority": "senior", "domain": "logistics-domain", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100020", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100957", "enrichment": {"skills": ["tableau"], "seniority": "staff", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101037", "enrichment": {"skills": ["javascript", "nodejs", "typescript", "nextjs"], "seniority": "mid", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100550", "enrichment": {"skills": ["postgres", "typescript", "nodejs"], "seniority": "intern", "domain": "edtech", "confidence": 0.7, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100452", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100487", "enrichment": {"skills": [], "seniority": "junior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-101008", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100396", "enrichment": {"skills": [], "seniority": "senior", "domain": "logistics-domain", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100700", "enrichment": {"skills": ["python"], "seniority": "manager", "domain": "logistics-domain", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100430", "enrichment": {"skills": ["react", "nodejs", "redis", "sql", "pandas"], "seniority": null, "domain": "ecommerce", "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100306", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101028", "enrichment": {"skills": ["snowflake", "kafka", "aws"], "seniority": "senior", "domain": "data-platform", "confidence": 0.75, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100381", "enrichment": {"skills": ["tableau"], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100082", "enrichment": {"skills": [], "seniority": "senior", "domain": "data-platform", "confidence": 0.9, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101046", "enrichment": {"skills": [], "seniority": "senior", "domain": "fintech", "confidence": 0.75, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100684", "enrichment": {"skills": ["csharp", "unity"], "seniority": "intern", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100227", "enrichment": {"skills": ["django", "postgres", "redis", "elasticsearch", "python"], "seniority": "principal", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100662", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100977", "enrichment": {"skills": ["tableau", "workday", "linux"], "seniority": "staff", "domain": "saas", "confidence": 0.85, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100507", "enrichment": {"skills": [], "seniority": "staff", "domain": "ecommerce", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100351", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100028", "enrichment": {"skills": ["tableau", "powerbi"], "seniority": "staff", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100506", "enrichment": {"skills": ["nextjs", "nodejs", "typescript", "react", "aws"], "seniority": "staff", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100598", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100540", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100963", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "ai-ml", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100090", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100530", "enrichment": {"skills": [], "seniority": "senior", "domain": "ai-ml", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100470", "enrichment": {"skills": ["python"], "seniority": "principal", "domain": "cybersecurity", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100165", "enrichment": {"skills": [], "seniority": "senior", "domain": "manufacturing", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100252", "enrichment": {"skills": [], "seniority": "mid", "domain": "logistics-domain", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100432", "enrichment": {"skills": ["go", "rust"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100403", "enrichment": {"skills": ["sql", "snowflake", "python"], "seniority": "senior", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100844", "enrichment": {"skills": ["python"], "seniority": "manager", "domain": "ai-ml", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100328", "enrichment": {"skills": ["python", "databricks", "terraform"], "seniority": "senior", "domain": "logistics-domain", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100449", "enrichment": {"skills": ["aws", "terraform"], "seniority": "junior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100531", "enrichment": {"skills": ["redis"], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100277", "enrichment": {"skills": ["python", "cplusplus", "tableau"], "seniority": "senior", "domain": "healthtech", "confidence": 0.9, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101041", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101023", "enrichment": {"skills": ["typescript", "rust", "redis"], "seniority": "staff", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100739", "enrichment": {"skills": [], "seniority": "senior", "domain": "hrtech", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100777", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100504", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100657", "enrichment": {"skills": ["solidworks"], "seniority": "senior", "domain": "manufacturing", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100765", "enrichment": {"skills": ["javascript", "nodejs", "mongodb"], "seniority": "intern", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100345", "enrichment": {"skills": ["csharp"], "seniority": "mid", "domain": "gaming", "confidence": 0.7, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100371", "enrichment": {"skills": ["spring", "csharp"], "seniority": null, "domain": "fintech", "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100776", "enrichment": {"skills": [], "seniority": null, "domain": "cybersecurity", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100760", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100481", "enrichment": {"skills": ["javascript", "nodejs", "kafka"], "seniority": "senior", "domain": "ecommerce", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100654", "enrichment": {"skills": [], "seniority": "senior", "domain": "biotech", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100808", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100260", "enrichment": {"skills": ["tableau", "powerbi"], "seniority": "staff", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-101049", "enrichment": {"skills": ["postgres"], "seniority": "director", "domain": "fintech", "confidence": 0.75, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100091", "enrichment": {"skills": [], "seniority": "senior", "domain": "logistics-domain", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100782", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100686", "enrichment": {"skills": ["aws", "javascript", "nodejs", "react", "csharp", "cplusplus"], "seniority": "senior", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100259", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100521", "enrichment": {"skills": ["tableau"], "seniority": "principal", "domain": "healthtech", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100933", "enrichment": {"skills": ["tableau"], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100878", "enrichment": {"skills": [], "seniority": "senior", "domain": "consulting", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100294", "enrichment": {"skills": ["typescript", "rust", "github-actions"], "seniority": "staff", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100873", "enrichment": {"skills": ["postgres", "aws"], "seniority": "junior", "domain": "logistics-domain", "confidence": 0.7, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100624", "enrichment": {"skills": ["java", "spring"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100182", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100788", "enrichment": {"skills": ["powerbi", "tableau"], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100236", "enrichment": {"skills": [], "seniority": "principal", "domain": "energy", "confidence": 0.75, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100212", "enrichment": {"skills": [], "seniority": "senior", "domain": "logistics-domain", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100994", "enrichment": {"skills": [], "seniority": null, "domain": "manufacturing", "confidence": 0.4, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100503", "enrichment": {"skills": ["react", "nodejs", "redis"], "seniority": "principal", "domain": "retail", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100615", "enrichment": {"skills": ["python", "tableau"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100631", "enrichment": {"skills": ["sql"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100086", "enrichment": {"skills": ["python", "tableau"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100438", "enrichment": {"skills": ["python", "airflow"], "seniority": "senior", "domain": "logistics-domain", "confidence": 0.7, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100828", "enrichment": {"skills": ["csharp", "sql"], "seniority": null, "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100291", "enrichment": {"skills": [], "seniority": "junior", "domain": "fintech", "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100594", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100096", "enrichment": {"skills": ["typescript", "nextjs", "api-design"], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100436", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100575", "enrichment": {"skills": [], "seniority": "senior", "domain": "edtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100437", "enrichment": {"skills": ["sql", "aws", "redshift"], "seniority": "senior", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100710", "enrichment": {"skills": ["python", "tableau"], "seniority": "staff", "domain": "healthtech", "confidence": 0.9, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100479", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100021", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100500", "enrichment": {"skills": ["python", "django", "postgres", "aws"], "seniority": "staff", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100886", "enrichment": {"skills": ["python", "pandas"], "seniority": "senior", "domain": "healthtech", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100502", "enrichment": {"skills": [], "seniority": "mid", "domain": "logistics-domain", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100773", "enrichment": {"skills": [], "seniority": "staff", "domain": "logistics-domain", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100251", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100813", "enrichment": {"skills": [], "seniority": "staff", "domain": "cybersecurity", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100392", "enrichment": {"skills": ["javascript", "nodejs", "redis"], "seniority": "mid", "domain": "ecommerce", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100727", "enrichment": {"skills": ["sql", "aws", "databricks"], "seniority": "senior", "domain": "data-platform", "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100343", "enrichment": {"skills": ["python", "tableau"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100634", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100125", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100413", "enrichment": {"skills": ["python", "postgres"], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100155", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100347", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100743", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100264", "enrichment": {"skills": [], "seniority": "mid", "domain": "cybersecurity", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100160", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100316", "enrichment": {"skills": ["javascript", "aws", "postgres", "nodejs"], "seniority": "senior", "domain": "devtools", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100661", "enrichment": {"skills": ["nextjs", "nodejs", "aws", "typescript", "postgres"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-101004", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100032", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100584", "enrichment": {"skills": ["javascript", "nodejs", "react", "typescript"], "seniority": "mid", "domain": "edtech", "confidence": 0.9, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100761", "enrichment": {"skills": ["typescript", "svelte"], "seniority": "junior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100958", "enrichment": {"skills": [], "seniority": "principal", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100485", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100062", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100210", "enrichment": {"skills": ["rust", "go", "typescript"], "seniority": "senior", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100969", "enrichment": {"skills": ["typescript", "nextjs", "aws"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100472", "enrichment": {"skills": ["python"], "seniority": "principal", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100298", "enrichment": {"skills": ["typescript", "nextjs", "nodejs", "aws"], "seniority": "senior", "domain": "ai-ml", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100272", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "logistics-domain", "confidence": 0.7, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100117", "enrichment": {"skills": ["python", "r"], "seniority": "senior", "domain": "biotech", "confidence": 0.9, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100930", "enrichment": {"skills": ["typescript"], "seniority": "junior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100113", "enrichment": {"skills": ["aws"], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100445", "enrichment": {"skills": ["javascript", "typescript", "nodejs", "aws", "postgres"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100701", "enrichment": {"skills": ["django"], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100137", "enrichment": {"skills": ["python"], "seniority": "principal", "domain": "logistics-domain", "confidence": 0.85, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100898", "enrichment": {"skills": [], "seniority": "intern", "domain": "manufacturing", "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-101032", "enrichment": {"skills": [], "seniority": "mid", "domain": "ecommerce", "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100052", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100287", "enrichment": {"skills": ["rust", "go", "react", "typescript"], "seniority": "staff", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100805", "enrichment": {"skills": ["powerbi", "tableau", "aws"], "seniority": "mid", "domain": "data-platform", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100597", "enrichment": {"skills": ["mysql"], "seniority": "staff", "domain": "ecommerce", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100078", "enrichment": {"skills": [], "seniority": "senior", "domain": "logistics-domain", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100946", "enrichment": {"skills": [], "seniority": "senior", "domain": "healthtech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100996", "enrichment": {"skills": ["typescript", "rust", "github-actions"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100085", "enrichment": {"skills": ["javascript", "typescript", "nodejs", "react", "postgres", "docker", "kubernetes", "terraform"], "seniority": "mid", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100785", "enrichment": {"skills": ["tableau", "powerbi", "kubernetes"], "seniority": "senior", "domain": "data-platform", "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100964", "enrichment": {"skills": ["javascript", "nodejs", "react", "tableau"], "seniority": null, "domain": "edtech", "confidence": 0.3, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100170", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100712", "enrichment": {"skills": [], "seniority": "mid", "domain": "cybersecurity", "confidence": 0.75, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100424", "enrichment": {"skills": ["python", "r"], "seniority": "principal", "domain": "biotech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100110", "enrichment": {"skills": ["aws", "tableau"], "seniority": "executive", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100480", "enrichment": {"skills": [], "seniority": "principal", "domain": "healthtech", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100948", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100642", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.85, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100775", "enrichment": {"skills": ["rust"], "seniority": "principal", "domain": "energy", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100050", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100881", "enrichment": {"skills": ["python", "tableau"], "seniority": "staff", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100265", "enrichment": {"skills": [], "seniority": "staff", "domain": "ai-ml", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100495", "enrichment": {"skills": ["javascript", "nodejs", "react", "aws"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100509", "enrichment": {"skills": [], "seniority": "staff", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100621", "enrichment": {"skills": ["aws", "tableau", "kubernetes", "scrum"], "seniority": "senior", "domain": "saas", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100279", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100908", "enrichment": {"skills": ["python", "django"], "seniority": "mid", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100038", "enrichment": {"skills": ["r"], "seniority": "principal", "domain": "biotech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100524", "enrichment": {"skills": [], "seniority": "principal", "domain": "manufacturing", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100836", "enrichment": {"skills": ["typescript", "nodejs", "aws"], "seniority": "staff", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100899", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100179", "enrichment": {"skills": ["python"], "seniority": "staff", "domain": "cybersecurity", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100578", "enrichment": {"skills": ["python", "ruby", "django"], "seniority": null, "domain": "fintech", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100749", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100196", "enrichment": {"skills": [], "seniority": null, "domain": "gaming", "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100545", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100783", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100725", "enrichment": {"skills": ["csharp", "unity"], "seniority": null, "domain": "gaming", "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100851", "enrichment": {"skills": [], "seniority": "senior", "domain": "manufacturing", "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100348", "enrichment": {"skills": [], "seniority": "senior", "domain": "ecommerce", "confidence": 0.8, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100573", "enrichment": {"skills": ["solidworks"], "seniority": "principal", "domain": "manufacturing", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100862", "enrichment": {"skills": ["cplusplus", "csharp", "unity"], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100195", "enrichment": {"skills": [], "seniority": "staff", "domain": "edtech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100026", "enrichment": {"skills": [], "seniority": "principal", "domain": "data-platform", "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100226", "enrichment": {"skills": ["typescript", "kubernetes"], "seniority": "junior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100051", "enrichment": {"skills": ["python"], "seniority": "staff", "domain": "biotech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100149", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100674", "enrichment": {"skills": [], "seniority": "junior", "domain": "energy", "confidence": 0.65, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100501", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100912", "enrichment": {"skills": ["python", "linux"], "seniority": "mid", "domain": "cybersecurity", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100538", "enrichment": {"skills": ["python", "airflow", "redshift"], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100618", "enrichment": {"skills": ["tableau"], "seniority": "principal", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100421", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100581", "enrichment": {"skills": ["typescript", "go", "rust", "java", "nodejs", "postgres"], "seniority": "principal", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100766", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100720", "enrichment": {"skills": ["python", "javascript", "nodejs"], "seniority": "senior", "domain": "ecommerce", "confidence": 0.85, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100676", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101025", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100883", "enrichment": {"skills": ["python"], "seniority": "staff", "domain": "cybersecurity", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100599", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100156", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100945", "enrichment": {"skills": ["django", "python"], "seniority": "staff", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100617", "enrichment": {"skills": ["typescript", "rust"], "seniority": "intern", "domain": "infrastructure", "confidence": 0.7, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100356", "enrichment": {"skills": [], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100194", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100079", "enrichment": {"skills": ["python"], "seniority": null, "domain": "ai-ml", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100916", "enrichment": {"skills": ["pandas"], "seniority": "senior", "domain": "ai-ml", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100831", "enrichment": {"skills": ["rust", "kubernetes"], "seniority": "staff", "domain": "ecommerce", "confidence": 0.7, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100829", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100410", "enrichment": {"skills": ["tableau", "jenkins", "kubernetes"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100587", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "ai-ml", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100579", "enrichment": {"skills": ["mysql", "redis", "javascript"], "seniority": "junior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100241", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100166", "enrichment": {"skills": ["typescript", "rust", "go", "docker", "github-actions"], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100116", "enrichment": {"skills": ["nodejs", "react"], "seniority": "senior", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100120", "enrichment": {"skills": ["django", "python", "elasticsearch", "workday"], "seniority": "principal", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100986", "enrichment": {"skills": ["python", "pandas"], "seniority": "mid", "domain": "biotech", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100818", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100988", "enrichment": {"skills": [], "seniority": "junior", "domain": "energy", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100045", "enrichment": {"skills": [], "seniority": "senior", "domain": "fintech", "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100135", "enrichment": {"skills": ["typescript", "nodejs", "nextjs", "react", "aws", "gcp"], "seniority": "staff", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100549", "enrichment": {"skills": ["spring"], "seniority": "senior", "domain": "fintech", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100552", "enrichment": {"skills": ["csharp", "unity"], "seniority": null, "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100490", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100601", "enrichment": {"skills": [], "seniority": "senior", "domain": "ai-ml", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-101044", "enrichment": {"skills": ["aws", "azure", "docker", "kubernetes", "jenkins"], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100646", "enrichment": {"skills": [], "seniority": "senior", "domain": "logistics-domain", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101052", "enrichment": {"skills": ["python", "postgres"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100772", "enrichment": {"skills": [], "seniority": "staff", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100401", "enrichment": {"skills": ["typescript", "rust", "python", "github-actions", "terraform"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100740", "enrichment": {"skills": ["react", "nodejs", "elasticsearch"], "seniority": "senior", "domain": "ecommerce", "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100325", "enrichment": {"skills": ["tableau"], "seniority": "staff", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100992", "enrichment": {"skills": ["typescript", "nextjs", "spring", "postgres", "docker"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100714", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100064", "enrichment": {"skills": ["solidworks"], "seniority": "senior", "domain": "manufacturing", "confidence": 0.9, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100405", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.4, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100016", "enrichment": {"skills": ["tableau", "powerbi"], "seniority": "mid", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100039", "enrichment": {"skills": ["r", "python"], "seniority": "senior", "domain": "biotech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100416", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100950", "enrichment": {"skills": ["postgres"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100235", "enrichment": {"skills": ["javascript", "nodejs", "postgres"], "seniority": "intern", "domain": "edtech", "confidence": 0.7, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101017", "enrichment": {"skills": ["tableau"], "seniority": null, "domain": null, "confidence": 0.4, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100817", "enrichment": {"skills": ["java", "angular", "postgres", "microservices"], "seniority": "mid", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100231", "enrichment": {"skills": ["python", "redis", "postgres"], "seniority": "mid", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100453", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100101", "enrichment": {"skills": [], "seniority": "senior", "domain": "edtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100427", "enrichment": {"skills": [], "seniority": "senior", "domain": "energy", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100295", "enrichment": {"skills": ["python", "django", "redis"], "seniority": "staff", "domain": "saas", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100566", "enrichment": {"skills": [], "seniority": null, "domain": "edtech", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100013", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100570", "enrichment": {"skills": ["tableau", "workday"], "seniority": "senior", "domain": "hrtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100697", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100681", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100900", "enrichment": {"skills": ["nextjs"], "seniority": "junior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100525", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100602", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100284", "enrichment": {"skills": [], "seniority": "staff", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100218", "enrichment": {"skills": [], "seniority": "staff", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100076", "enrichment": {"skills": [], "seniority": "senior", "domain": "hrtech", "confidence": 0.75, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100029", "enrichment": {"skills": [], "seniority": "principal", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-101014", "enrichment": {"skills": ["swift"], "seniority": "junior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100690", "enrichment": {"skills": ["go", "typescript", "rust", "kubernetes"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100442", "enrichment": {"skills": ["nextjs", "nodejs"], "seniority": null, "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100201", "enrichment": {"skills": ["javascript", "typescript", "nodejs", "postgres", "sql"], "seniority": "senior", "domain": "edtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100931", "enrichment": {"skills": [], "seniority": null, "domain": "biotech", "confidence": 0.3, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100678", "enrichment": {"skills": ["typescript", "rust", "go", "kubernetes"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100326", "enrichment": {"skills": ["rust", "go", "typescript"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100377", "enrichment": {"skills": ["python"], "seniority": "principal", "domain": "biotech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100918", "enrichment": {"skills": ["python", "r"], "seniority": "intern", "domain": "biotech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100522", "enrichment": {"skills": ["pandas"], "seniority": "junior", "domain": "ai-ml", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100653", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "biotech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100572", "enrichment": {"skills": [], "seniority": null, "domain": "gaming", "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100048", "enrichment": {"skills": [], "seniority": "senior", "domain": "energy", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100655", "enrichment": {"skills": [], "seniority": "principal", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100292", "enrichment": {"skills": [], "seniority": "intern", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100650", "enrichment": {"skills": ["nodejs"], "seniority": "principal", "domain": "ecommerce", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100055", "enrichment": {"skills": [], "seniority": null, "domain": "healthtech", "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100271", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100705", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100956", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100357", "enrichment": {"skills": ["linux", "python"], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100131", "enrichment": {"skills": ["typescript", "rust", "go"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-101057", "enrichment": {"skills": ["python"], "seniority": "mid", "domain": "fintech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100874", "enrichment": {"skills": [], "seniority": "senior", "domain": "media", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100728", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100640", "enrichment": {"skills": ["python"], "seniority": null, "domain": "biotech", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100256", "enrichment": {"skills": ["react", "aws", "javascript"], "seniority": "principal", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100063", "enrichment": {"skills": ["python"], "seniority": "mid", "domain": "energy", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100041", "enrichment": {"skills": ["pci-dss"], "seniority": "senior", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100586", "enrichment": {"skills": ["nodejs", "nextjs"], "seniority": "mid", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100896", "enrichment": {"skills": ["python"], "seniority": "staff", "domain": "ai-ml", "confidence": 0.7, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100461", "enrichment": {"skills": [], "seniority": "senior", "domain": "biotech", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100569", "enrichment": {"skills": ["mysql", "nodejs"], "seniority": "senior", "domain": "ecommerce", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100321", "enrichment": {"skills": ["javascript", "nodejs", "mysql"], "seniority": "senior", "domain": "ecommerce", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100894", "enrichment": {"skills": [], "seniority": "junior", "domain": "hrtech", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100422", "enrichment": {"skills": ["typescript"], "seniority": "mid", "domain": "cybersecurity", "confidence": 0.75, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100911", "enrichment": {"skills": ["csharp", "cplusplus", "unity"], "seniority": "senior", "domain": "gaming", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100193", "enrichment": {"skills": [], "seniority": "intern", "domain": "data-platform", "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100489", "enrichment": {"skills": [], "seniority": "intern", "domain": "cybersecurity", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-101009", "enrichment": {"skills": ["postgres", "nodejs", "aws", "python"], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100797", "enrichment": {"skills": ["typescript"], "seniority": "mid", "domain": "biotech", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100031", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "energy", "confidence": 0.75, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100604", "enrichment": {"skills": ["django", "python"], "seniority": "senior", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100074", "enrichment": {"skills": ["postgres"], "seniority": "senior", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100595", "enrichment": {"skills": ["tableau"], "seniority": "principal", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100848", "enrichment": {"skills": [], "seniority": "senior", "domain": "healthtech", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100229", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100249", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100420", "enrichment": {"skills": ["python", "tableau"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100047", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100542", "enrichment": {"skills": [], "seniority": "principal", "domain": "manufacturing", "confidence": 0.8, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100183", "enrichment": {"skills": ["javascript", "nodejs"], "seniority": "mid", "domain": "edtech", "confidence": 0.7, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100376", "enrichment": {"skills": [], "seniority": "intern", "domain": "ai-ml", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100757", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100892", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100327", "enrichment": {"skills": ["python", "tableau"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100605", "enrichment": {"skills": [], "seniority": "junior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100845", "enrichment": {"skills": ["powerbi", "tableau", "sql"], "seniority": "senior", "domain": "data-platform", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100937", "enrichment": {"skills": ["typescript", "nodejs", "postgres"], "seniority": "senior", "domain": "edtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100061", "enrichment": {"skills": [], "seniority": "staff", "domain": "cybersecurity", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100707", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100733", "enrichment": {"skills": [], "seniority": "senior", "domain": "insurtech", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100324", "enrichment": {"skills": [], "seniority": "mid", "domain": "ai-ml", "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100370", "enrichment": {"skills": [], "seniority": "mid", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100129", "enrichment": {"skills": ["python", "r"], "seniority": "senior", "domain": "biotech", "confidence": 0.7, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100164", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100962", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100706", "enrichment": {"skills": ["python", "django"], "seniority": "principal", "domain": "data-platform", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100358", "enrichment": {"skills": ["python", "django", "postgres", "elasticsearch"], "seniority": "staff", "domain": "saas", "confidence": 0.9, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100286", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100924", "enrichment": {"skills": ["go", "typescript", "rust", "terraform", "kubernetes", "postgres"], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100290", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100910", "enrichment": {"skills": ["tableau", "powerbi", "sql"], "seniority": "senior", "domain": "data-platform", "confidence": 0.9, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100609", "enrichment": {"skills": ["cplusplus", "unity"], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100970", "enrichment": {"skills": ["rust", "typescript", "kubernetes"], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100719", "enrichment": {"skills": [], "seniority": "staff", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100577", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100770", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100099", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100559", "enrichment": {"skills": ["csharp", "cplusplus", "unity", "terraform", "kubernetes"], "seniority": null, "domain": "gaming", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100462", "enrichment": {"skills": ["react", "nodejs", "javascript", "postgres"], "seniority": "principal", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100991", "enrichment": {"skills": ["python", "javascript", "django"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100983", "enrichment": {"skills": ["nodejs"], "seniority": null, "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100734", "enrichment": {"skills": [], "seniority": "staff", "domain": "logistics-domain", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100338", "enrichment": {"skills": ["azure", "aws", "kubernetes"], "seniority": "principal", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100484", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100233", "enrichment": {"skills": ["kubernetes", "tableau"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100771", "enrichment": {"skills": [], "seniority": "mid", "domain": "saas", "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100224", "enrichment": {"skills": ["typescript", "nodejs", "postgres", "aws"], "seniority": null, "domain": "edtech", "confidence": 0.4, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100088", "enrichment": {"skills": ["tableau", "python"], "seniority": "junior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100759", "enrichment": {"skills": ["python", "aws", "terraform", "kafka"], "seniority": "senior", "domain": null, "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100965", "enrichment": {"skills": [], "seniority": "principal", "domain": "edtech", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100488", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100060", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "cybersecurity", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-101029", "enrichment": {"skills": [], "seniority": "senior", "domain": "ai-ml", "confidence": 0.8, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100528", "enrichment": {"skills": ["r", "python"], "seniority": "senior", "domain": "biotech", "confidence": 0.7, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100093", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100465", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100949", "enrichment": {"skills": ["python", "pandas"], "seniority": "mid", "domain": "healthtech", "confidence": 0.75, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100282", "enrichment": {"skills": [], "seniority": "staff", "domain": "media", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100622", "enrichment": {"skills": [], "seniority": "senior", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100478", "enrichment": {"skills": ["typescript", "javascript", "react", "nodejs"], "seniority": "senior", "domain": "edtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100200", "enrichment": {"skills": ["typescript"], "seniority": "junior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100192", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100639", "enrichment": {"skills": ["sql"], "seniority": "senior", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100637", "enrichment": {"skills": [], "seniority": "junior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100856", "enrichment": {"skills": [], "seniority": "mid", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100928", "enrichment": {"skills": ["python"], "seniority": "junior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100816", "enrichment": {"skills": ["solidworks"], "seniority": "mid", "domain": "manufacturing", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100889", "enrichment": {"skills": ["python"], "seniority": "senior", "domain": "ai-ml", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100054", "enrichment": {"skills": ["tableau"], "seniority": "principal", "domain": null, "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100308", "enrichment": {"skills": [], "seniority": "junior", "domain": "fintech", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100834", "enrichment": {"skills": ["javascript", "nodejs", "aws", "postgres", "react"], "seniority": "senior", "domain": "devtools", "confidence": 0.8, "needs_review": false, "work_mode": "remote"}}
+{"candidate_id": "CAND-100027", "enrichment": {"skills": [], "seniority": "intern", "domain": "logistics-domain", "confidence": 0.5, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100804", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100724", "enrichment": {"skills": ["python"], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100426", "enrichment": {"skills": ["cplusplus", "csharp", "sql", "docker", "unity"], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100397", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100536", "enrichment": {"skills": [], "seniority": null, "domain": null, "confidence": 0.0, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100144", "enrichment": {"skills": ["aws", "databricks"], "seniority": "mid", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100334", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.75, "needs_review": true, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100955", "enrichment": {"skills": ["csharp", "dotnet", "unity", "databricks"], "seniority": "senior", "domain": "gaming", "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100075", "enrichment": {"skills": [], "seniority": "senior", "domain": "fintech", "confidence": 0.7, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100300", "enrichment": {"skills": ["linux", "docker", "kubernetes", "gcp", "terraform", "ansible"], "seniority": "junior", "domain": null, "confidence": 0.5, "needs_review": true, "work_mode": "remote"}}
+{"candidate_id": "CAND-100269", "enrichment": {"skills": ["python"], "seniority": "principal", "domain": "energy", "confidence": 0.8, "needs_review": false, "work_mode": "hybrid"}}
+{"candidate_id": "CAND-100741", "enrichment": {"skills": ["python", "r", "sql", "kubernetes"], "seniority": "junior", "domain": "healthtech", "confidence": 0.8, "needs_review": false, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100444", "enrichment": {"skills": [], "seniority": "senior", "domain": null, "confidence": 0.6, "needs_review": true, "work_mode": "onsite"}}
+{"candidate_id": "CAND-100698", "enrichment": {"skills": [], "seniority": "senior", "domain": "data-platform", "confidence": 0.7, "needs_review": true, "work_mode": "remote"}}
