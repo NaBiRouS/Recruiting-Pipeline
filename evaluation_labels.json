@@ -1,0 +1,378 @@
+[
+  {
+    "candidate_id": "CAND-100561",
+    "name": "Julia Bakker",
+    "resume_text": "Julia Bakker — Consultant · two-sided liquidity and supply-side\njulia.bakker@posteo.de · Manchester\n\n1 years in industry. Comfortable picking up well-scoped tickets and seeing them through review. Recent work has centred on trust and safety review queues.\n\nTenpoint Media · Associate Consultant · 2025-2026\nimplemented scripting in py3; brought the regression suite from manual checks to 69 automated scenarios\nwrote tests for personalised ranking and collaborative filtering; eliminated a class of duplicate-processing bugs by making the consumer idempotent\nSupported escrow release conditions on completed transactions\nmigrated OFF editorial calendar and long-form content onto CPython services in my first quarter\n\nMSc Data Science, University of Warsaw",
+    "work_mode": "onsite",
+    "manual": {
+      "skills": ["python", "recommender-systems"],
+      "seniority": "junior",
+      "domain": "media"
+    }
+  },
+  {
+    "candidate_id": "CAND-100973",
+    "name": "Wei Rahman",
+    "resume_text": "Curriculum Vitae — Wei Rahman\nwei.rahman73@example.org | Lisbon\n\nRESEARCH AND PROFESSIONAL APPOINTMENTS\n2019–2026  Lead Scientist, Portside Freight\n      chaired the design review board for freight and last-mile coordination; took the error budget burn from chronic to comfortably within SLO\n      set multi-year technical strategy for demand prediction models; brought the regression suite from manual checks to 22 automated scenarios\n      set multi-year technical strategy for end-to-end supply planning with a team of 10; cut the nightly batch window from 53 hours to under two\n      Delivered route optimisation under vehicle capacity constraints\n      attended an internal workshop on Claude models via API — no production exposure\n2017–2019  Senior Scientist, Portside Freight\n      arbitrated the architecture of DAG-based batch orchestration with a team of 10; eliminated a class of duplicate-processing bugs by making the consumer idempotent\n      drove the multi-team design of hand-tuned analytical queries; cut p95 latency from 445ms to 116ms\n      Worked on freight rate negotiation by lane\n2014–2017  Scientist, Portside Freight\n      set the technical direction for stock levels and reorder points with a team of 5; reduced monthly infrastructure spend by 43%\n      set the technical direction for scripting in py3 with a team of 5; raised cache hit rate from 45% to over 90%\n      Delivered customs documentation for cross-border freight\n2012–2014  Scientist, Marlowe Logistics\n      built and shipped course sequencing and learning outcomes; halved the release cycle from fortnightly to twice weekly\n      owned the implementation of strictly-typed TS codebase; reduced monthly infrastructure spend by 32%\n      was responsible for freight and last-mile coordination; brought the regression suite from manual checks to 65 automated scenarios\n      Worked on route optimisation under vehicle capacity constraints\n\nEDUCATION\n2011  MSc Applied Mathematics, Delft Institute\n\nLANGUAGES  English (native)",
+    "work_mode": "remote",
+    "manual": {
+      "skills": ["python", "typescript", "sql", "forecasting"],
+      "seniority": "senior",
+      "domain": "logistics-domain"
+    }
+  },
+  {
+    "candidate_id": "CAND-100159",
+    "name": "Hassan Garcia",
+    "resume_text": "µ¶·¸¹ºÂÃÄÅÆÇ\n�� ˜Ÿ¡¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚâãäåæ\nà JFIF  ��� ˜Ÿ¡¢£¤¥¦§¨©ª²³´µ¶·¸¹º\nµ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚâãä\n¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ\n©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚâãäåæçèéêòó\n  ��� ˜Ÿ¡¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚâãäåæçèéêòóô\nFIF  ��� ˜Ÿ¡¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚâãäåæçè\n²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×ØÙÚâãä\n¡¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊÒÓÔÕÖ×\n  ��� ˜Ÿ¡¢£¤¥¦§¨©ª²³´µ¶·¸¹ºÂÃÄÅÆÇÈÉÊ\n",
+    "work_mode": "remote",
+    "manual": {
+      "skills": [],
+      "seniority": "",
+      "domain": ""
+    }
+  },
+  {
+    "candidate_id": "CAND-100565",
+    "name": "Sven Andersen",
+    "resume_text": "Curriculum Vitae — Sven Andersen\nsven.andersen38@webmail.co | Utrecht\n\nRESEARCH AND PROFESSIONAL APPOINTMENTS\n2024–2026  Lead Architect, Ironclad Manufacturing\n      owned end to end SolidWorks assemblies and drawings; reduced monthly infrastructure spend by 21%\n      owned end to end 3D parametric modelling; eliminated a class of duplicate-processing bugs by making the consumer idempotent\n      set the technical direction for end-to-end supply planning; cut p95 latency from 1161ms to 92ms\n      Owned OEE tracking across production lines\n2020–2024  Architect, Grainger Foods\n      was responsible for defect tracking and acceptance criteria; cut the nightly batch window from 49 hours to under two\n      owned the implementation of bare-metal firmware in C; brought the regression suite from manual checks to 65 automated scenarios\n      Owned MES integration with shop-floor PLCs\n\nEDUCATION\n2018  MSc Information Systems, University of Warsaw\n\nLANGUAGES  English (fluent), Spanish (native)",
+    "work_mode": "onsite",
+    "manual": {
+      "skills": ["solidworks", "cad", "embedded-c"],
+      "seniority": "senior",
+      "domain": "manufacturing"
+    }
+  },
+  {
+    "candidate_id": "CAND-100450",
+    "name": "Bilal Bakker",
+    "resume_text": "Bilal Bakker — Scientist · SCADA historian data at\nbilal.bakker@webmail.co · Utrecht\n\n3 years in industry. Ships features end to end and is trusted with production changes unsupervised. Recent work has centred on settlement in wholesale power markets.\n\nMeridian Power · Scientist · 2023-2026\nowned the implementation of Debian and RHEL fleet administration; raised cache hit rate from 24% to over 90%\nwas responsible for scripting in py3; cut p95 latency from 732ms to 65ms\nSupported settlement in wholesale power markets\n\nBSc Computer Science, City College",
+    "work_mode": "hybrid",
+    "manual": {
+      "skills": ["python", "linux"],
+      "seniority": "mid",
+      "domain": "energy"
+    }
+  },
+  {
+    "candidate_id": "CAND-100018",
+    "name": "Rosa Sokolov",
+    "resume_text": "ROSA SOKOLOV\nrosa.sokolov@mail.com · +20 657 480183 · Manchester\n\nPROFILE\n5 years in industry. Ships features end to end and is trusted with production changes unsupervised. Recent work has centred on audience retention curves by episode.\n\nPROFESSIONAL EXPERIENCE\nArchitect II, Foxglove Publishing   2025–2026\n  - built and shipped landing page and ad copy; took the error budget burn from chronic to comfortably within SLO\n  - owned the implementation of editorial calendar and long-form content; cut p95 latency from 1048ms to 45ms\n  - owned the implementation of WP themes and plugins; reduced monthly infrastructure spend by 34%\n  - Supported DRM licence issuance per playback session\n  - the adjacent squad owned legacy HDFS and MapReduce estate; I integrated against their API using landing page and ad copy\n\nArchitect, Tenpoint Media   2021–2025\n  - wrote tests for organic social programming; raised cache hit rate from 64% to over 90%\n  - contributed to positioning and messaging architecture; halved the release cycle from fortnightly to twice weekly\n  - Worked on editorial calendar and CMS publishing workflow\n\nEDUCATION\nBEng Software Engineering — City College, 2019\n\nCERTIFICATIONS\n  - ISTQB Certified Tester\n  - Databricks Certified Data Engineer\n\nLanguages: English (native)",
+    "work_mode": "hybrid",
+    "manual": {
+      "skills": [
+        "wordpress",
+        "content-marketing",
+        "brand-strategy",
+        "databricks"
+      ],
+      "seniority": "mid",
+      "domain": "media"
+    }
+  },
+  {
+    "candidate_id": "CAND-100535",
+    "name": "Sana Tanaka",
+    "resume_text": "Sana Tanaka — Scientist · engagement scoping and statement-of-work\nsana.tanaka4@inbox.net · Lyon\n\n5 years in industry. Ships features end to end and is trusted with production changes unsupervised. Recent work has centred on engagement scoping and statement-of-work definition.\n\nCalder & Finch · Scientist · 2024-2026\nwas responsible for aligned competing priorities across departments; eliminated a class of duplicate-processing bugs by making the consumer idempotent\nbuilt and shipped Power BI reports and DAX measures; cut the nightly batch window from 35 hours to under two\nSupported client workshops to align on target operating model\n\nPalewell Group · Scientist · 2022-2024\nwrote tests for owned the roadmap and wrote the specs; brought the regression suite from manual checks to 37 automated scenarios\nfixed several defects in authored the developer-facing documentation; halved the release cycle from fortnightly to twice weekly\nfixed several defects in dashboards for the commercial team in Tableau; raised cache hit rate from 41% to over 90%\nOwned discovery interviews across stakeholder groups\n\nPalewell Group · Trainee · 2021-2022\ncontributed a small fix to hand-tuned analytical queries; cut p95 latency from 463ms to 183ms\nhelped test quarterly planning and sequencing; took the error budget burn from chronic to comfortably within SLO\nDelivered client workshops to align on target operating model\n\nMSc Data Science, Riverside University",
+    "work_mode": "hybrid",
+    "manual": {
+      "skills": ["powerbi", "tableau", "stakeholder-management", "roadmapping"],
+      "seniority": "mid",
+      "domain": "consulting"
+    }
+  },
+  {
+    "candidate_id": "CAND-101012",
+    "name": "Mei Dubois",
+    "resume_text": "Mei Dubois\nValencia | mdubois@protonmail.ch\n\nWHAT I DO\n17 years in industry. Sets technical direction over multi-year horizons and is accountable for org-wide architectural bets. Recent work has centred on freight rate negotiation by lane.\n\nSELECTED WORK\n  • chaired the design review board for query optimisation against the warehouse; halved the release cycle from fortnightly to twice weekly\n  • defined the org-wide approach to stock levels and reorder points; cut p95 latency from 478ms to 187ms\n  • Owned yard management and dock scheduling\n  • migrated OFF three-statement models and scenario analysis onto complex window functions and CTEs in my first quarter\n  • drove the multi-team design of wrote most of the tooling in Python 3 with a team of 10; eliminated a class of duplicate-processing bugs by making the consumer idempotent\n  • set standards across three teams for freight and last-mile coordination; brought the regression suite from manual checks to 46 automated scenarios\n  • Delivered route optimisation under vehicle capacity constraints\n  • set the technical direction for demand prediction models; raised cache hit rate from 31% to over 90%\n  • set the technical direction for end-to-end supply planning; cut the nightly batch window from 28 hours to under two\n  • Delivered last-mile delivery window promises\n  • built and shipped DAG-based batch orchestration; reduced monthly infrastructure spend by 38%\n  • owned the implementation of scripting in py3; took the error budget burn from chronic to comfortably within SLO\n  • Owned last-mile delivery window promises\n\nWHERE\n  Marlowe Logistics (2024–2026) — Principal Analyst\n  Portside Freight (2019–2024) — Lead Analyst\n  Marlowe Logistics (2018–2019) — Senior Analyst\n  Portside Freight (2009–2018) — Analyst\n\nEducation: BEng Software Engineering, Anadolu University",
+    "work_mode": "hybrid",
+    "manual": {
+      "skills": ["python", "sql", "forecasting", "financial-modeling"],
+      "seniority": "principal",
+      "domain": "logistics-domain"
+    }
+  },
+  {
+    "candidate_id": "CAND-100421",
+    "name": "Rajesh Nakamura",
+    "resume_text": "Curriculum Vitae — Rajesh Nakamura\nrajesh.nakamura@inbox.net | Valencia\n\nRESEARCH AND PROFESSIONAL APPOINTMENTS\n2024–2026  Lead Engineer, Foxglove Publishing\n      set standards across three teams for high-fidelity mockups and design system components; eliminated a class of duplicate-processing bugs by making the consumer idempotent\n      set standards across three teams for positioning and messaging architecture with a team of 10; cut the nightly batch window from 63 hours to under two\n      Owned audience retention curves by episode\n      our platform team ran classroom instruction and assessment; my work sat on the high-fidelity mockups and design system components side of the boundary\n2021–2024  Lead Engineer, Foxglove Publishing\n      designed and led delivery of organic social programming with a team of 5; took the error budget burn from chronic to comfortably within SLO\n      designed and led delivery of editorial calendar and long-form content with a team of 5; halved the release cycle from fortnightly to twice weekly\n      owned end to end organic search growth and technical crawl fixes with a team of 5; raised cache hit rate from 48% to over 90%\n      Owned subscriber paywall metering\n2014–2021  Engineer, Foxglove Publishing\n      built and shipped landing page and ad copy; brought the regression suite from manual checks to 55 automated scenarios\n      was responsible for editorial calendar and long-form content; cut p95 latency from 1043ms to 161ms\n      built and shipped organic search growth and technical crawl fixes; reduced monthly infrastructure spend by 25%\n      Delivered subscriber paywall metering\n\nEDUCATION\n2013  BSc Computer Science, Technical University of Munich\n      Thesis: scalable stream processing under bounded memory",
+    "work_mode": "hybrid",
+    "manual": {
+      "skills": ["figma", "seo", "content-marketing", "social-media"],
+      "seniority": "staff",
+      "domain": "media"
+    }
+  },
+  {
+    "candidate_id": "CAND-100692",
+    "name": "Yara Tanaka",
+    "resume_text": "CURRICULUM VITAE\n\nSurname / First name:  Tanaka / Yara\nE-mail:                yara.tanaka82@mail.com\nTelephone:             +1 393 641934\nCity of residence:     Munich\n\nWORK EXPERIENCE\n  Dates                2020 – 2026\n  Occupation           Lead Architect\n  Employer             Sterling Ledger\n  Main activities      set standards across three teams for Spring-era JVM stack with a team of 10; cut p95 latency from 703ms to 123ms; arbitrated the architecture of Type II audit readiness and control evidence with a team of 10; raised cache hit rate from 46% to over 90%; Delivered PCI-DSS scope reduction across the cardholder data environment; read up on configuration management playbooks during the vendor review, though we never adopted it\n\n  Dates                2017 – 2020\n  Occupation           Lead Architect\n  Employer             Northbridge Financial\n  Main activities      set the technical direction for consensus, partial failure and idempotency concerns; cut the nightly batch window from 58 hours to under two; designed and led delivery of three-statement models and scenario analysis; halved the release cycle from fortnightly to twice weekly; Supported ISO 8583 message parsing for card authorisation\n\n  Dates                2015 – 2017\n  Occupation           Architect II\n  Employer             Fairbank Capital\n  Main activities      built and shipped cardholder data environment scoping; brought the regression suite from manual checks to 58 automated scenarios; owned the implementation of independently deployable bounded contexts; eliminated a class of duplicate-processing bugs by making the consumer idempotent; was responsible for complex window functions and CTEs; reduced monthly infrastructure spend by 27%; Owned AML transaction monitoring thresholds\n\n  Dates                2014 – 2015\n  Occupation           Architect\n  Employer             Fairbank Capital\n  Main activities      wrote tests for durable partitioned event log; took the error budget burn from chronic to comfortably within SLO; implemented psql-heavy workloads; took the error budget burn from chronic to comfortably within SLO; Delivered interchange fee modelling\n\nEDUCATION AND TRAINING\n  Qualification        MSc Information Systems\n  Institution          Universidade de Lisboa\n\nPERSONAL SKILLS\n  Languages            English (professional), Portuguese (native)",
+    "work_mode": "onsite",
+    "manual": {
+      "skills": [
+        "java",
+        "spring",
+        "sql",
+        "pci-dss",
+        "soc2",
+        "kafka",
+        "microservices"
+      ],
+      "seniority": "staff",
+      "domain": "fintech"
+    }
+  },
+  {
+    "candidate_id": "CAND-100920",
+    "name": "Marta Sharma",
+    "resume_text": "Marta Sharma — Architect · multi-region failover with tested\nmarta.sharma53@example.org · Tallinn\n\n2 years in industry. Comfortable picking up well-scoped tickets and seeing them through review. Recent work has centred on platform golden paths for product teams.\n\nVertex Labs · Associate Architect · 2024-2026\ncontributed to BGP and DNS troubleshooting; cut p95 latency from 586ms to 141ms\ncontributed to EC2/S3/IAM footprint; took the error budget burn from chronic to comfortably within SLO\nimplemented configuration management playbooks; eliminated a class of duplicate-processing bugs by making the consumer idempotent\nOwned platform golden paths for product teams\n\nBSc Computer Science, McGill University",
+    "work_mode": "hybrid",
+    "manual": {
+      "skills": ["aws", "networking", "ansible"],
+      "seniority": "junior",
+      "domain": "infrastructure"
+    }
+  },
+  {
+    "candidate_id": "CAND-100613",
+    "name": "Bilal Vargas",
+    "resume_text": "Curriculum Vitae — Bilal Vargas\nbilal.vargas49@inbox.net | Tallinn\n\nRESEARCH AND PROFESSIONAL APPOINTMENTS\n2023–2026  Associate Analyst, Axiom Retail\n      was responsible for hooks-based UI; eliminated a class of duplicate-processing bugs by making the consumer idempotent\n      was responsible for in-memory key-value cache with TTL eviction; took the error budget burn from chronic to comfortably within SLO\n      Supported returns and RMA workflow\n      migrated OFF Java 17 microservices onto component-driven front end using React 18 in my first quarter\n\nEDUCATION\n2021  BA Economics, Riverside University\n\nLANGUAGES  English (fluent), Mandarin (native)",
+    "work_mode": "remote",
+    "manual": {
+      "skills": ["react", "redis", "java", "microservices"],
+      "seniority": "junior",
+      "domain": "ecommerce"
+    }
+  },
+  {
+    "candidate_id": "CAND-100529",
+    "name": "Ali Sokolov",
+    "resume_text": "ALI SOKOLOV\nali.sokolov@inbox.net · +12 972 721666 · Utrecht\n\nPROFILE\n8 years in industry. Takes ambiguous problems to a design, then to delivery, and mentors along the way. Recent work has centred on medallion architecture with bronze, silver and gold layers.\n\nPROFESSIONAL EXPERIENCE\nAnalyst, Kestrel Analytics   2023–2026\n  - designed and led delivery of Google's serverless warehouse; cut the nightly batch window from 38 hours to under two\n  - set the technical direction for stateful stream processing with event-time windows; eliminated a class of duplicate-processing bugs by making the consumer idempotent\n  - designed and led delivery of columnar OLAP store for real-time analytics with a team of 5; brought the regression suite from manual checks to 49 automated scenarios\n  - Worked on column-level lineage for regulatory reporting\n  - migrated OFF TF state management onto Google's serverless warehouse in my first quarter\n\nAnalyst II, Kestrel Analytics   2018–2023\n  - owned the implementation of scripting in py3; took the error budget burn from chronic to comfortably within SLO\n  - owned the implementation of cloud warehouse with separated storage and compute; halved the release cycle from fortnightly to twice weekly\n  - built and shipped Lakehouse notebooks and Delta tables; reduced monthly infrastructure spend by 46%\n  - Owned column-level lineage for regulatory reporting\n\nEDUCATION\nBEng Software Engineering — Indian Institute of Technology, 2018\n\nCERTIFICATIONS\n  - Google Cloud Professional Data Engineer\n  - Certified Kubernetes Administrator\n\nLanguages: English (professional), Polish (native)",
+    "work_mode": "hybrid",
+    "manual": {
+      "skills": ["python", "bigquery", "snowflake", "databricks", "kubernetes"],
+      "seniority": "senior",
+      "domain": "data-platform"
+    }
+  },
+  {
+    "candidate_id": "CAND-100002",
+    "name": "Rosa Nakamura",
+    "resume_text": "Curriculum Vitae — Rosa Nakamura\nrosa.nakamura94@posteo.de | Tallinn\n\nRESEARCH AND PROFESSIONAL APPOINTMENTS\n2019–2026  Principal Specialist, Ironclad Manufacturing\n      defined the org-wide approach to bare-metal firmware in C; took the error budget burn from chronic to comfortably within SLO\n      chaired the design review board for waste reduction and value-stream mapping; cut the nightly batch window from 15 hours to under two\n      Worked on supplier PPAP submissions\n      migrated OFF SwiftUI screens onto bare-metal firmware in C in my first quarter\n2016–2019  Lead Specialist, Ironclad Manufacturing\n      set standards across three teams for SolidWorks assemblies and drawings; cut p95 latency from 833ms to 141ms\n      drove the multi-team design of defect tracking and acceptance criteria; brought the regression suite from manual checks to 17 automated scenarios\n      Delivered changeover time reduction on the bottleneck cell\n2014–2016  Senior Specialist, Ironclad Manufacturing\n      set the technical direction for end-to-end supply planning; reduced monthly infrastructure spend by 63%\n      set the technical direction for DMAIC process improvement; halved the release cycle from fortnightly to twice weekly\n      designed and led delivery of 3D parametric modelling; eliminated a class of duplicate-processing bugs by making the consumer idempotent\n      Owned MES integration with shop-floor PLCs\n2012–2014  Specialist II, Grainger Foods\n      built and shipped scripting in py3; raised cache hit rate from 50% to over 90%\n      was responsible for waste reduction and value-stream mapping; cut p95 latency from 1111ms to 40ms\n      Supported MES integration with shop-floor PLCs\n\nEDUCATION\n2010  BSc Computer Science, Technical University of Munich\n      Thesis: probabilistic record linkage at scale\n\nLANGUAGES  English (fluent), Spanish (native)",
+    "work_mode": "onsite",
+    "manual": {
+      "skills": ["embedded-c", "solidworks", "cad", "python"],
+      "seniority": "principal",
+      "domain": "manufacturing"
+    }
+  },
+  {
+    "candidate_id": "CAND-100200",
+    "name": "Ravi Adeyemi",
+    "resume_text": "CURRICULUM VITAE\n\nSurname / First name:  Adeyemi / Ravi\nE-mail:                ravi.adeyemi@webmail.co\nTelephone:             +19 185 731771\nCity of residence:     Milan\n\nWORK EXPERIENCE\n  Dates                2024 – 2026\n  Occupation           Associate Developer\n  Employer             Toolshed Systems\n  Main activities      contributed to strictly-typed TS codebase; halved the release cycle from fortnightly to twice weekly; contributed to versioning, pagination and deprecation policy; raised cache hit rate from 47% to over 90%; wrote tests for capacity planning and architecture review; eliminated a class of duplicate-processing bugs by making the consumer idempotent; Owned plugin API with semantic versioning guarantees; our platform team ran legacy HDFS and MapReduce estate; my work sat on the migrated the codebase to TypeScript strict mode side of the boundary\n\nEDUCATION AND TRAINING\n  Qualification        BSc Computer Science\n  Institution          Indian Institute of Technology\n\nPERSONAL SKILLS\n  Languages            English (fluent), Mandarin (native)",
+    "work_mode": "onsite",
+    "manual": {
+      "skills": ["typescript", "rest-api", "api-design"],
+      "seniority": "junior",
+      "domain": "devtools"
+    }
+  },
+  {
+    "candidate_id": "CAND-100209",
+    "name": "Mei Yilmaz",
+    "resume_text": "Curriculum Vitae — Mei Yilmaz\nmei.yilmaz41@example.org | Manchester\n\nRESEARCH AND PROFESSIONAL APPOINTMENTS\n2024–2026  Scientist II, Calder & Finch\n      owned the implementation of owned the roadmap and wrote the specs; took the error budget burn from chronic to comfortably within SLO\n      built and shipped Power BI reports and DAX measures; cut p95 latency from 542ms to 178ms\n      Delivered discovery interviews across stakeholder groups\n2022–2024  Scientist, Palewell Group\n      implemented aligned competing priorities across departments; cut the nightly batch window from 44 hours to under two\n      implemented dashboards for the commercial team in Tableau; eliminated a class of duplicate-processing bugs by making the consumer idempotent\n      Worked on utilisation and bench management\n\nEDUCATION\n2021  BA Economics, Politecnico di Milano",
+    "work_mode": "remote",
+    "manual": {
+      "skills": ["powerbi", "tableau", "roadmapping"],
+      "seniority": "mid",
+      "domain": "consulting"
+    }
+  },
+  {
+    "candidate_id": "CAND-100339",
+    "name": "Hassan Vargas",
+    "resume_text": "Hassan Vargas — Engineer · seat-based billing with proration\nhassan.vargas@webmail.co · Bristol\n\n4 years in industry. Ships features end to end and is trusted with production changes unsupervised. Recent work has centred on churn prediction on account health signals.\n\nNorthwind Systems · Engineer · 2022-2026\nbuilt and shipped server-rendered app on Next.js App Router; reduced monthly infrastructure spend by 35%\nbuilt and shipped Apollo federation; raised cache hit rate from 34% to over 90%\nOwned multi-tenant row-level isolation\nbriefly trialled Argo sync waves; rejected it on operational cost grounds\n\nMSc Data Science, Politecnico di Milano",
+    "work_mode": "onsite",
+    "manual": {
+      "skills": ["nextjs", "graphql"],
+      "seniority": "mid",
+      "domain": "saas"
+    }
+  },
+  {
+    "candidate_id": "CAND-100674",
+    "name": "Hugo Berg",
+    "resume_text": "Hugo Berg\nLyon | hugo.berg@example.org\n\nWHAT I DO\n1 years in industry. Comfortable picking up well-scoped tickets and seeing them through review. Recent work has centred on turbine condition monitoring.\n\nSELECTED WORK\n  • wrote tests for query optimisation against the warehouse; brought the regression suite from manual checks to 57 automated scenarios\n  • fixed several defects in hypothesis testing and confidence intervals; eliminated a class of duplicate-processing bugs by making the consumer idempotent\n  • contributed to seasonal decomposition and autoregressive models; reduced monthly infrastructure spend by 33%\n  • Supported turbine condition monitoring\n\nWHERE\n  Meridian Power (2025–2026) — Associate Specialist\n\nEducation: MSc Data Science, Riverside University\nCertifications: Certified Kubernetes Administrator",
+    "work_mode": "hybrid",
+    "manual": {
+      "skills": ["statistics", "time-series", "sql"],
+      "seniority": "junior",
+      "domain": "energy"
+    }
+  },
+  {
+    "candidate_id": "CAND-100374",
+    "name": "Wei Fischer",
+    "resume_text": "Wei Fischer\nRotterdam | wei.fischer@mail.com\n\nWHAT I DO\n4 years in industry. Ships features end to end and is trusted with production changes unsupervised. Recent work has centred on SSO onboarding for enterprise tenants.\n\nSELECTED WORK\n  • built and shipped psql-heavy workloads; took the error budget burn from chronic to comfortably within SLO\n  • owned the implementation of OCI images; reduced monthly infrastructure spend by 39%\n  • Worked on churn prediction on account health signals\n  • migrated OFF MATLAB simulations onto Aurora Postgres cluster in my first quarter\n\nWHERE\n  Vertex Labs (2022–2026) — Architect\n\nEducation: BSc Computer Science, Anadolu University\nCertifications: CompTIA Security+",
+    "work_mode": "onsite",
+    "manual": {
+      "skills": ["postgres", "docker", "matlab"],
+      "seniority": "mid",
+      "domain": "saas"
+    }
+  },
+  {
+    "candidate_id": "CAND-100295",
+    "name": "James Nguyen",
+    "resume_text": "James Nguyen\nMunich | james.nguyen@mail.com\n\nWHAT I DO\n11 years in industry. Operates across team boundaries; most of the work is influence, sequencing and design review. Recent work has centred on two-sided liquidity and supply-side onboarding.\n\nSELECTED WORK\n  • arbitrated the architecture of Redis Streams; cut p95 latency from 1132ms to 108ms\n  • drove the multi-team design of Django admin customisation; took the error budget burn from chronic to comfortably within SLO\n  • set standards across three teams for relational store with JSONB columns; eliminated a class of duplicate-processing bugs by making the consumer idempotent\n  • Worked on search ranking balancing relevance against seller quality\n  • owned end to end inverted-index search cluster; cut the nightly batch window from 31 hours to under two\n  • set the technical direction for split tests with pre-registered hypotheses; halved the release cycle from fortnightly to twice weekly\n  • Delivered dispute resolution between buyers and sellers\n  • was responsible for experiment platform and guardrail metrics; reduced monthly infrastructure spend by 28%\n  • was responsible for scripting in py3; brought the regression suite from manual checks to 24 automated scenarios\n  • was responsible for personalised ranking and collaborative filtering; raised cache hit rate from 50% to over 90%\n  • Worked on take-rate experiments\n  • wrote tests for ELK stack; raised cache hit rate from 62% to over 90%\n  • implemented scripting in py3; raised cache hit rate from 18% to over 90%\n  • Delivered two-sided liquidity and supply-side onboarding\n\nWHERE\n  Tenpoint Media (2025–2026) — Staff Analyst\n  Crosslane Markets (2022–2025) — Senior Analyst\n  Tenpoint Media (2021–2022) — Analyst II\n  Harbor Point (2015–2021) — Analyst\n\nEducation: BEng Software Engineering, Northern Institute of Technology",
+    "work_mode": "hybrid",
+    "manual": {
+      "skills": [
+        "redis",
+        "django",
+        "postgres",
+        "elasticsearch",
+        "ab-testing",
+        "experimentation",
+        "recommender-systems",
+        "python"
+      ],
+      "seniority": "staff",
+      "domain": "marketplace"
+    }
+  },
+  {
+    "candidate_id": "CAND-100105",
+    "name": "Leila Bakker",
+    "resume_text": "Leila Bakker — Analyst · PCI-DSS scope reduction across\nleila.bakker42@webmail.co · Munich\n\n2 years in industry. Comfortable picking up well-scoped tickets and seeing them through review. Recent work has centred on settlement windows and T+2 clearing.\n\nSterling Ledger · Analyst · 2024-2026\nimplemented complex window functions and CTEs; brought the regression suite from manual checks to 15 automated scenarios\nwrote tests for dependency-injected JVM stack; cut the nightly batch window from 51 hours to under two\nWorked on PCI-DSS scope reduction across the cardholder data environment\n\nBEng Software Engineering, Politecnico di Milano",
+    "work_mode": "remote",
+    "manual": {
+      "skills": ["sql", "java", "pci-dss"],
+      "seniority": "junior",
+      "domain": "fintech"
+    }
+  },
+  {
+    "candidate_id": "CAND-100388",
+    "name": "Rosa Marchetti",
+    "resume_text": "Curriculum Vitae — Rosa Marchetti\nrosa.marchetti@inbox.net | Manchester\n\nRESEARCH AND PROFESSIONAL APPOINTMENTS\n2023–2026  Lead Consultant, Meridian Data\n      designed and led delivery of full-cycle hiring from sourcing to offer; brought the regression suite from manual checks to 38 automated scenarios\n      set the technical direction for owned the roadmap and wrote the specs; eliminated a class of duplicate-processing bugs by making the consumer idempotent\n      Worked on compensation benchmarking against survey data\n2020–2023  Consultant II, Talentworks Systems\n      was responsible for levelling frameworks and salary banding; took the error budget burn from chronic to comfortably within SLO\n      owned the implementation of structured new-hire ramp programmes; cut p95 latency from 336ms to 80ms\n      Delivered compensation benchmarking against survey data\n\nEDUCATION\n2019  BEng Software Engineering, Anadolu University\n\nLANGUAGES  English (fluent), French (fluent), Arabic (native)",
+    "work_mode": "onsite",
+    "manual": {
+      "skills": ["recruiting", "compensation-design", "onboarding"],
+      "seniority": "senior",
+      "domain": "hrtech"
+    }
+  },
+  {
+    "candidate_id": "CAND-101003",
+    "name": "Otto Sharma",
+    "resume_text": "Otto Sharma — Engineer · medallion architecture with bronze,\nosharma@outlook-x.com · Rotterdam\n\n10 years in industry. Operates across team boundaries; most of the work is influence, sequencing and design review. Recent work has centred on medallion architecture with bronze, silver and gold layers.\n\nKestrel Analytics · Senior Engineer · 2022-2026\ndrove the multi-team design of durable partitioned event log; reduced monthly infrastructure spend by 45%\ndrove the multi-team design of cloud warehouse with separated storage and compute; brought the regression suite from manual checks to 15 automated scenarios\narbitrated the architecture of columnar OLAP store for real-time analytics with a team of 10; halved the release cycle from fortnightly to twice weekly\nWorked on data contracts between producing and consuming teams\n\nKestrel Analytics · Senior Engineer · 2019-2022\ndesigned and led delivery of query optimisation against the warehouse; cut p95 latency from 674ms to 159ms\ndesigned and led delivery of Lakehouse notebooks and Delta tables; eliminated a class of duplicate-processing bugs by making the consumer idempotent\nowned end to end distributed batch processing on the JVM cluster with a team of 5; raised cache hit rate from 48% to over 90%\nSupported freshness and volume anomaly monitors\n\nMeridian Data · Engineer · 2016-2019\nowned the implementation of scheduled Airflow operators; took the error budget burn from chronic to comfortably within SLO\nowned the implementation of stateful stream processing with event-time windows; cut the nightly batch window from 33 hours to under two\nDelivered column-level lineage for regulatory reporting\n\nBA Economics, McGill University",
+    "work_mode": "remote",
+    "manual": {
+      "skills": ["kafka", "snowflake", "databricks", "spark", "airflow"],
+      "seniority": "staff",
+      "domain": "data-platform"
+    }
+  },
+  {
+    "candidate_id": "CAND-100581",
+    "name": "Noah Novak",
+    "resume_text": "Noah Novak\nGothenburg | noah.novak@posteo.de\n\nWHAT I DO\n16 years in industry. Sets technical direction over multi-year horizons and is accountable for org-wide architectural bets. Recent work has centred on SDK ergonomics across three client languages.\n\nSELECTED WORK\n  • defined the org-wide approach to strictly-typed TS codebase; eliminated a class of duplicate-processing bugs by making the consumer idempotent\n  • chaired the design review board for versioning, pagination and deprecation policy; took the error budget burn from chronic to comfortably within SLO\n  • Owned SDK ergonomics across three client languages\n  • drove the multi-team design of multi-stage container builds; raised cache hit rate from 48% to over 90%\n  • drove the multi-team design of k8s clusters; cut the nightly batch window from 27 hours to under two\n  • drove the multi-team design of rewrote the daemon in Go with a team of 10; reduced monthly infrastructure spend by 28%\n  • Worked on documentation-driven API design\n  • set the technical direction for memory-safe systems work in Rust with a team of 5; halved the release cycle from fortnightly to twice weekly\n  • owned end to end capacity planning and architecture review; cut p95 latency from 1124ms to 163ms\n  • Supported local development environment parity with production\n  • was responsible for server-side JavaScript on Node 20; brought the regression suite from manual checks to 55 automated scenarios\n  • was responsible for psql-heavy workloads; halved the release cycle from fortnightly to twice weekly\n  • was responsible for capacity planning and architecture review; cut the nightly batch window from 46 hours to under two\n  • Delivered SDK ergonomics across three client languages\n\nWHERE\n  Quillon Software (2020–2026) — Principal Consultant\n  Quillon Software (2016–2020) — Staff Consultant\n  Toolshed Systems (2015–2016) — Lead Consultant\n  Toolshed Systems (2010–2015) — Senior Consultant\n\nEducation: BA Economics, Indian Institute of Technology",
+    "work_mode": "onsite",
+    "manual": {
+      "skills": [
+        "typescript",
+        "rust",
+        "go",
+        "docker",
+        "kubernetes",
+        "nodejs",
+        "postgres",
+        "api-design"
+      ],
+      "seniority": "principal",
+      "domain": "devtools"
+    }
+  },
+  {
+    "candidate_id": "CAND-101008",
+    "name": "Anna Kim",
+    "resume_text": "Anna Kim — Engineer · OEE tracking across production\nakim@gmail-alt.com · Munich\n\n0 years in industry. Early-career, currently building foundations through supervised project work. Recent work has centred on SPC control charts on critical dimensions.\n\nGrainger Foods · Intern · 2025-2026\ncontributed a small fix to DMAIC process improvement; eliminated a class of duplicate-processing bugs by making the consumer idempotent\nhelped test bare-metal firmware in C; brought the regression suite from manual checks to 35 automated scenarios\nshadowed the team on 3D parametric modelling; cut p95 latency from 950ms to 189ms\nWorked on changeover time reduction on the bottleneck cell\n\nMSc Information Systems, Delft Institute",
+    "work_mode": "remote",
+    "manual": {
+      "skills": ["embedded-c", "cad"],
+      "seniority": "intern",
+      "domain": "manufacturing"
+    }
+  },
+  {
+    "candidate_id": "CAND-100102",
+    "name": "Erik Garcia",
+    "resume_text": "Curriculum Vitae — Erik Garcia\nerik.garcia@example.org | Dublin\n\nRESEARCH AND PROFESSIONAL APPOINTMENTS\n2025–2026  Specialist II, Meridian Power\n      designed and led delivery of seasonal decomposition and autoregressive models with a team of 5; halved the release cycle from fortnightly to twice weekly\n      set the technical direction for BGP and DNS troubleshooting with a team of 5; brought the regression suite from manual checks to 41 automated scenarios\n      designed and led delivery of demand prediction models; raised cache hit rate from 22% to over 90%\n      Worked on emissions reporting under regulatory schemes\n2023–2025  Specialist II, Meridian Power\n      built and shipped query optimisation against the warehouse; took the error budget burn from chronic to comfortably within SLO\n      owned the implementation of systemd unit tuning; reduced monthly infrastructure spend by 47%\n      Delivered emissions reporting under regulatory schemes\n2017–2023  Specialist, Redcliff Energy\n      implemented scripting in py3; cut the nightly batch window from 56 hours to under two\n      wrote tests for hypothesis testing and confidence intervals; eliminated a class of duplicate-processing bugs by making the consumer idempotent\n      Delivered emissions reporting under regulatory schemes\n\nEDUCATION\n2016  MSc Data Science, Indian Institute of Technology\n      Thesis: scalable stream processing under bounded memory\n\nLANGUAGES  English (fluent), Mandarin (native)",
+    "work_mode": "onsite",
+    "manual": {
+      "skills": [
+        "time-series",
+        "forecasting",
+        "networking",
+        "linux",
+        "statistics",
+        "python"
+      ],
+      "seniority": "senior",
+      "domain": "energy"
+    }
+  },
+  {
+    "candidate_id": "CAND-100619",
+    "name": "Aisha Sokolov",
+    "resume_text": "AISHA SOKOLOV\naisha.sokolov48@mail.com · +44 939 931593 · Valencia\n\nPROFILE\n11 years in industry. Operates across team boundaries; most of the work is influence, sequencing and design review. Recent work has centred on asset streaming from disk without hitching.\n\nPROFESSIONAL EXPERIENCE\nLead Consultant, Pixelgate   2020–2026\n  - set standards across three teams for CV models over camera feeds with a team of 10; cut the nightly batch window from 57 hours to under two\n  - arbitrated the architecture of profiling and hot-path optimisation with a team of 10; took the error budget burn from chronic to comfortably within SLO\n  - Supported matchmaking rating distribution\n  - inherited a proof of concept built on normalised schema design and index strategy which we retired in favour of image classification and object detection\n\nConsultant, Ironwood Tech   2017–2020\n  - set the technical direction for low-latency C++ engine code with a team of 5; raised cache hit rate from 69% to over 90%\n  - designed and led delivery of UE5 blueprints and C++ gameplay; cut p95 latency from 988ms to 78ms\n  - Delivered frame budget profiling on the render thread\n\nSenior Consultant, Nightfall Studios   2015–2017\n  - owned the implementation of real-time 3D scenes and physics in Unity; eliminated a class of duplicate-processing bugs by making the consumer idempotent\n  - built and shipped legacy C# desktop tooling; reduced monthly infrastructure spend by 57%\n  - Worked on netcode rollback and client-side prediction\n\nEDUCATION\nBEng Software Engineering — Politecnico di Milano, 2014\n\nCERTIFICATIONS\n  - HashiCorp Terraform Associate\n  - Certified Kubernetes Administrator\n\nLanguages: English (fluent), French (fluent), Arabic (native)",
+    "work_mode": "hybrid",
+    "manual": {
+      "skills": [
+        "computer-vision",
+        "unreal",
+        "cplusplus",
+        "unity",
+        "csharp",
+        "terraform",
+        "kubernetes"
+      ],
+      "seniority": "staff",
+      "domain": "gaming"
+    }
+  },
+  {
+    "candidate_id": "CAND-100685",
+    "name": "Ravi Sandoval",
+    "resume_text": "Ravi Sandoval\nravi.sandoval@webmail.co — Lisbon\n\nPROFIL\n9 ans d'expérience. Travaux récents sur l'industrialisation de traitements de données et la fiabilité des services en production.\n\nEXPÉRIENCE\nSenior Scientist, Portside Freight (2023–2026)\n  • Conception et mise en œuvre de services de production\n  • Encadrement technique et revue de code\nSenior Scientist, Portside Freight (2020–2023)\n  • Conception et mise en œuvre de services de production\n  • Encadrement technique et revue de code\nScientist, Marlowe Logistics (2019–2020)\n  • Conception et mise en œuvre de services de production\n  • Encadrement technique et revue de code\nIntern, Portside Freight (2017–2019)\n  • Conception et mise en œuvre de services de production\n  • Encadrement technique et revue de code\n\nFORMATION\nBSc Electrical Engineering, University of Warsaw",
+    "work_mode": "remote",
+    "manual": {
+      "skills": [],
+      "seniority": "senior",
+      "domain": "logistics-domain"
+    }
+  },
+  {
+    "candidate_id": "CAND-100751",
+    "name": "Wei Larsen",
+    "resume_text": "CURRICULUM VITAE\n\nSurname / First name:  Larsen / Wei\nE-mail:                wei.larsen@mail.com\nTelephone:             +46 307 671420\nCity of residence:     Dublin\n\nWORK EXPERIENCE\n  Dates                2017 – 2026\n  Occupation           Staff Scientist\n  Employer             Ironwood Tech\n  Main activities      defined the org-wide approach to UE5 blueprints and C++ gameplay; halved the release cycle from fortnightly to twice weekly; set multi-year technical strategy for profiling and hot-path optimisation with a team of 10; reduced monthly infrastructure spend by 57%; set multi-year technical strategy for real-time 3D scenes and physics in Unity with a team of 10; cut the nightly batch window from 58 hours to under two; Supported matchmaking rating distribution\n\n  Dates                2016 – 2017\n  Occupation           Lead Scientist\n  Employer             Nightfall Studios\n  Main activities      arbitrated the architecture of low-latency C++ engine code with a team of 10; cut p95 latency from 637ms to 146ms; drove the multi-team design of C# services on .NET with a team of 10; took the error budget burn from chronic to comfortably within SLO; Owned netcode rollback and client-side prediction\n\n  Dates                2013 – 2016\n  Occupation           Lead Scientist\n  Employer             Ironwood Tech\n  Main activities      designed and led delivery of CV models over camera feeds with a team of 5; raised cache hit rate from 26% to over 90%; owned end to end C++17 rendering internals; eliminated a class of duplicate-processing bugs by making the consumer idempotent; Worked on live-ops event scheduling and battle pass content\n\n  Dates                2008 – 2013\n  Occupation           Senior Scientist\n  Employer             Ironwood Tech\n  Main activities      was responsible for UE5 blueprints and C++ gameplay; brought the regression suite from manual checks to 49 automated scenarios; owned the implementation of C# services on .NET; cut p95 latency from 889ms to 83ms; was responsible for real-time 3D scenes and physics in Unity; took the error budget burn from chronic to comfortably within SLO; Worked on live-ops event scheduling and battle pass content\n\nEDUCATION AND TRAINING\n  Qualification        BA Economics\n  Institution          Technical University of Munich\n\nPERSONAL SKILLS\n  Languages            English (native)",
+    "work_mode": "onsite",
+    "manual": {
+      "skills": ["unreal", "cplusplus", "unity", "csharp", "computer-vision"],
+      "seniority": "principal",
+      "domain": "gaming"
+    }
+  },
+  {
+    "candidate_id": "CAND-100251",
+    "name": "Liam Muller",
+    "resume_text": "Curriculum Vitae — Liam Muller\nliam.muller99@webmail.co | Berlin\n\nRESEARCH AND PROFESSIONAL APPOINTMENTS\n2025–2026  Trainee, Tenpoint Media\n      shadowed the team on high-fidelity mockups and design system components; cut the nightly batch window from 25 hours to under two\n      shadowed the team on editorial calendar and long-form content; brought the regression suite from manual checks to 70 automated scenarios\n      Supported DRM licence issuance per playback session\n\nEDUCATION\n2026  MSc Information Systems, McGill University\n\nLANGUAGES  English (fluent), German (conversational)",
+    "work_mode": "remote",
+    "manual": {
+      "skills": ["figma"],
+      "seniority": "intern",
+      "domain": "media"
+    }
+  }
+]

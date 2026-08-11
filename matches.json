@@ -1,0 +1,46 @@
+{
+  "job_id": "ROLE-2203",
+  "job_title": "Platform / SRE",
+  "matches": [
+    {
+      "candidate_id": "CAND-100847",
+      "reason": "3/3 required skills: aws, kubernetes, terraform, senior seniority, work mode as required: hybrid, score 50"
+    },
+    {
+      "candidate_id": "CAND-100929",
+      "reason": "2/3 required skills: aws, kubernetes, senior seniority, infrastructure domain, work mode as required: hybrid, score 45"
+    },
+    {
+      "candidate_id": "CAND-100266",
+      "reason": "2/3 required skills: aws, kubernetes, senior seniority, work mode as required: hybrid, score 40"
+    },
+    {
+      "candidate_id": "CAND-100336",
+      "reason": "2/3 required skills: aws, kubernetes, senior seniority, work mode as required: hybrid, score 40"
+    },
+    {
+      "candidate_id": "CAND-100379",
+      "reason": "2/3 required skills: aws, kubernetes, principal seniority, work mode as required: hybrid, score 39"
+    },
+    {
+      "candidate_id": "CAND-100211",
+      "reason": "2/3 required skills: aws, kubernetes, staff seniority, work mode as required: hybrid, score 37"
+    },
+    {
+      "candidate_id": "CAND-100255",
+      "reason": "2/3 required skills: aws, kubernetes, senior seniority, work mode as required: hybrid, score 35"
+    },
+    {
+      "candidate_id": "CAND-100280",
+      "reason": "2/3 required skills: aws, kubernetes, senior seniority, work mode as required: hybrid, score 35"
+    },
+    {
+      "candidate_id": "CAND-100534",
+      "reason": "2/3 required skills: aws, kubernetes, senior seniority, work mode as required: hybrid, score 35"
+    },
+    {
+      "candidate_id": "CAND-100619",
+      "reason": "2/3 required skills: kubernetes, terraform, senior seniority, work mode as required: hybrid, score 35"
+    }
+  ]
+}

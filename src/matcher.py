@@ -282,8 +282,30 @@ def main():
             "reason": candidate["reason"],
         }
         for candidate in ranked[:10]
+
     ]
 
+    # save to json
+    submission = {
+        "job_id": job["id"],
+        "job_title": job["title"],
+        "matches": matches,
+    }
+
+    with open("matches.json", "w", encoding="utf-8") as f:
+        json.dump(
+            submission,
+            f,
+            indent=2,
+            ensure_ascii=False,
+        )
+
+    print(
+        f"\nSaved {len(matches)} shortlisted candidates "
+        f"for {job['id']} - {job['title']} to matches.json"
+    )
+
+    # write to api
     print("\nSubmitting shortlist...")
     result = api.submit_matches(
         job["id"],
