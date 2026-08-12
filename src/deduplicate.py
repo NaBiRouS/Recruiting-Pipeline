@@ -172,7 +172,7 @@ def choose_canonical(a, b):
     return b, a
 
 
-def main():
+def run_deduplication():
     api = TalentBaseAPI()
 
     print("Fetching candidates...")
@@ -232,6 +232,13 @@ def main():
             f"{candidate['enrichment']}"
         )
 
+    return {
+        "duplicates_found": len(duplicates),
+        "updated": updated,
+        "failed": failed,
+    }
+
+
 
 if __name__ == "__main__":
-    main()
+    run_deduplication()

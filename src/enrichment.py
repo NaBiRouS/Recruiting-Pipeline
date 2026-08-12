@@ -4,7 +4,7 @@ from src.api import TalentBaseAPI
 from src.llm import ResumeEnricher
 
 
-def main():
+def run_enrichment():
     api = TalentBaseAPI()
 
     print("Fetching taxonomy...")
@@ -66,7 +66,7 @@ def main():
 
             result["work_mode"] = work_mode
 
-            # Save locally before/after API update
+            # Save locally
             record = {
                 "candidate_id": candidate_id,
                 "enrichment": result,
@@ -101,7 +101,7 @@ def main():
 
 
     print("\nVerifying Enrichment API write-back...")
-    for candidate in candidates[:3]:
+    for candidate in candidates[:5]:
         candidate_id = candidate["id"]
 
         updated_candidate = api.get(f"/candidates/{candidate_id}")
@@ -115,7 +115,13 @@ def main():
             )
         )
 
+    return {
+        "total": len(candidates),
+        "successful": successful,
+        "failed": failed,
+    }
+
 
 
 if __name__ == "__main__":
-    main()
+    run_enrichment()

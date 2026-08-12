@@ -1,26 +1,47 @@
-from src.api import TalentBaseAPI
+from src.enrichment import run_enrichment
+from src.deduplicate import run_deduplication
+from src.matcher import run_matching
 
 
 def main():
-    api = TalentBaseAPI()
+    print("=" * 60)
+    print("STARTING PIPELINE")
+    print("=" * 60)
 
-    print("Health:")
-    print(api.get_health())
+    print("\n[TASK 1/3] ENRICHMENT")
+    enrichment_result = run_enrichment()
 
-    print("\nTaxonomy:")
-    print(api.get_taxonomy())
+    print("\n[TASK 2/3] DEDUPLICATION")
+    deduplication_result = run_deduplication()
 
-    print("\nJobs:")
-    print(api.get_jobs())
+    print("\n[TASK 3/3] MATCHING")
+    matching_result = run_matching()
 
-    print("\nFetching candidates...")
-    candidates = api.get_all_candidates()
+    print("\n" + "=" * 60)
+    print("PIPELINE COMPLETE")
+    print("=" * 60)
 
-    print(f"Fetched {len(candidates)} candidates.")
+    print("\nSummary:")
+    print(
+        f"Enrichment: "
+        f"{enrichment_result['successful']} updated, "
+        f"{enrichment_result['failed']} failed"
+    )
 
-    if candidates:
-        print("\nFirst candidate:")
-        print(candidates[0])
+    print(
+        f"Deduplication: "
+        f"{deduplication_result['duplicates_found']} duplicates, "
+        f"{deduplication_result['updated']} API updates, "
+        f"{deduplication_result['failed']} failed"
+    )
+
+    print(
+        f"Matching: "
+        f"{matching_result['submitted']} candidates submitted "
+        f"for {matching_result['job_id']} - "
+        f"{matching_result['job_title']}"
+    )
+
 
 
 if __name__ == "__main__":

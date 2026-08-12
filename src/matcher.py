@@ -38,7 +38,6 @@ def is_eligible(candidate, job, duplicate_ids):
     - they are a duplicate
     - enrichment is missing
     - seniority is below the job minimum
-    - a required skill is missing
     """
 
     candidate_id = candidate["id"]
@@ -54,9 +53,6 @@ def is_eligible(candidate, job, duplicate_ids):
     candidate_seniority = enrichment.get("seniority")
     job_min_seniority = job["min_seniority"]
 
-    # candidate_skills = set(enrichment.get("skills") or [])
-    # required_skills = set(job.get("must_have") or [])
-
     # Missing/invalid seniority
     if candidate_seniority not in SENIORITY_LEVELS:
         return False, "invalid seniority"
@@ -67,10 +63,6 @@ def is_eligible(candidate, job, duplicate_ids):
         < SENIORITY_LEVELS[job_min_seniority]
     ):
         return False, "seniority below minimum"
-
-    # # Every must-have skill is required
-    # if not required_skills.issubset(candidate_skills):
-    #     return False, "missing required skill"
 
     return True, None
 
@@ -89,7 +81,7 @@ def score_candidate(candidate, job):
 
     must_have = set(job.get("must_have") or [])
     matched_must_have = skills.intersection(must_have)
-    # 15 points per nice-to-have skill
+    # 15 points per must-have skill
     score += len(matched_must_have) * 15
 
     nice_to_have = set(job.get("nice_to_have") or [])
@@ -205,7 +197,7 @@ def rank_candidates(candidates, job, duplicate_ids):
     return ranked, rejected
 
 
-def main():
+def run_matching():
     api = TalentBaseAPI()
 
     print("Fetching jobs...")
@@ -314,6 +306,14 @@ def main():
     print("Submission result:")
     print(result)
 
+    return {
+        "job_id": job["id"],
+        "job_title": job["title"],
+        "eligible": len(ranked),
+        "submitted": len(matches),
+    }
+
+
 
 if __name__ == "__main__":
-    main()
+    run_matching()
